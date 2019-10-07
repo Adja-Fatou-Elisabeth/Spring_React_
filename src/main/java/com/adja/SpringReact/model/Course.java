@@ -1,4 +1,4 @@
-package com.adja.model;
+package com.adja.SpringReact.model;
 
 public class Course {
 	private Long id;

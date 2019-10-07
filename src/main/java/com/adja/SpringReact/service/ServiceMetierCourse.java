@@ -1,11 +1,11 @@
-package com.adja.service;
+package com.adja.SpringReact.service;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.adja.model.Course;
+import com.adja.SpringReact.model.Course;
 
 @Service
 public class ServiceMetierCourse {
