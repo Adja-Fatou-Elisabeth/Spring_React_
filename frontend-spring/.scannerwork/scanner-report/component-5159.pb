@@ -1,0 +1,1 @@
+§(%node_modules/shebang-command/index.js 2jsXh

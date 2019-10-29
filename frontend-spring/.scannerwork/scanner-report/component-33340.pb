@@ -1,0 +1,1 @@
+¼„;node_modules/regenerate-unicode-properties/Script/Hebrew.js 2jsXh

@@ -1,0 +1,1 @@
+¦2node_modules/eslint/lib/rules/newline-after-var.js 2jsXh

@@ -1,0 +1,1 @@
+Õkynode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/NavigatorConcurrentHardware.js 2jsXch

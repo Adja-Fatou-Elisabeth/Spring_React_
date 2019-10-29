@@ -1,0 +1,1 @@
+߄@node_modules/regenerate-unicode-properties/Script/Old_Persian.js 2jsXh

@@ -1,0 +1,1 @@
+Éƒ3node_modules/regenerate-unicode-properties/index.js 2jsX–h

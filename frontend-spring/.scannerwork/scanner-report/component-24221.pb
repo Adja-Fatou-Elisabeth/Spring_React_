@@ -1,0 +1,1 @@
+ùΩ:node_modules/axobject-query/lib/etc/objects/SVGRootRole.js 2jsXh

@@ -1,0 +1,1 @@
+ëEnode_modules/browser-resolve/node_modules/resolve/test/filter_sync.js 2jsXh

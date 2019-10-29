@@ -1,0 +1,1 @@
+Ùjqnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/HTMLTemplateElement.js 2jsXhh

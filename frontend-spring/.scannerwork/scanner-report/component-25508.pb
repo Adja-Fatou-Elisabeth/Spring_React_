@@ -1,0 +1,1 @@
+คว?node_modules/parallel-transform/node_modules/string_decoder/lib :ฃว

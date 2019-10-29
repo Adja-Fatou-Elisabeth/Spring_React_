@@ -1,0 +1,1 @@
+è1node_modules/eslint/lib/rules/no-magic-numbers.js 2jsX®h

@@ -1,0 +1,1 @@
+׼1node_modules/@typescript-eslint/parser/dist/scope :ռؼۼܼ

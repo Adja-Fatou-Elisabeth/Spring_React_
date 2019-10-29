@@ -1,0 +1,1 @@
+Ú]node_modules/browser-resolve/node_modules/resolve/test/resolver/bar/node_modules/foo/index.js 2jsXh

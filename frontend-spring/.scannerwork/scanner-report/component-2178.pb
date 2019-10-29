@@ -1,0 +1,1 @@
+‚>node_modules/eslint-plugin-jsx-a11y/lib/rules/label-has-for.js 2jsX™h

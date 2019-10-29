@@ -1,0 +1,1 @@
+Ú+;node_modules/@svgr/babel-plugin-transform-svg-component/lib :Ù+Û+

@@ -1,0 +1,1 @@
+´IGnode_modules/eslint-plugin-import/node_modules/doctrine/lib/doctrine.js 2jsX‚h

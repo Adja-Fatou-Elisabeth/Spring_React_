@@ -1,0 +1,1 @@
+à¶cnode_modules/react-scripts/node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js 2jsX$h

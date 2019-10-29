@@ -1,0 +1,1 @@
+¤s<node_modules/babel-runtime/core-js/number/is-safe-integer.js 2jsXh

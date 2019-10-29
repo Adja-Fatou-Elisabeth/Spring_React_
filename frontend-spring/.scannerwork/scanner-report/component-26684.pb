@@ -1,0 +1,1 @@
+Ма+node_modules/fast-glob/package/out/adapters :ЛаНаПаОаРаСа

@@ -1,0 +1,1 @@
+®ÆSnode_modules/@babel/plugin-transform-dotall-regex/test/fixtures/dotall-regex/simple :­Æ¯Æ

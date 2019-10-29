@@ -1,0 +1,1 @@
+ׂInode_modules/regenerate-unicode-properties/Script_Extensions/Malayalam.js 2jsXh

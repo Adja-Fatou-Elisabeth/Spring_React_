@@ -1,0 +1,1 @@
+×X8node_modules/caniuse-lite/data/features/accelerometer.js 2jsXh

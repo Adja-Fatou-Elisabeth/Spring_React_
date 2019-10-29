@@ -1,0 +1,1 @@
+ŠX5node_modules/caniuse-lite/data/features/css-resize.js 2jsXh

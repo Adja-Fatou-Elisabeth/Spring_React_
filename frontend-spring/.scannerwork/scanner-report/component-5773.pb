@@ -1,0 +1,1 @@
+ç-0node_modules/svgo/lib/svgo/css-select-adapter.js 2jsX6h

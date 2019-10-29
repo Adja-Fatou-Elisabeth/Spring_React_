@@ -1,0 +1,1 @@
+î,4node_modules/svgo/plugins/cleanupEnableBackground.js 2jsXUh

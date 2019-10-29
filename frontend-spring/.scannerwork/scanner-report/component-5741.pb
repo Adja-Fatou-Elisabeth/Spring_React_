@@ -1,0 +1,1 @@
+í,1node_modules/svgo/plugins/removeOffCanvasPaths.js 2jsX†h

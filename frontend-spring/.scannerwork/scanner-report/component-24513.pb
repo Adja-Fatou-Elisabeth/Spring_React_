@@ -1,0 +1,1 @@
+Á¿Hnode_modules/@babel/preset-typescript/test/fixtures/flow-compat/js-valid :À¿Â¿

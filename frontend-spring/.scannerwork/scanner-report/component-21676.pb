@@ -1,0 +1,1 @@
+¬©1node_modules/define-property/node_modules/kind-of :¯©

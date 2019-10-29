@@ -1,0 +1,1 @@
+”*Enode_modules/snapdragon-node/node_modules/is-data-descriptor/index.js 2jsX2h

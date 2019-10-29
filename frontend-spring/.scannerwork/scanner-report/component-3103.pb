@@ -1,0 +1,1 @@
+Ÿ1node_modules/eslint/lib/rules/no-useless-catch.js 2jsX5h

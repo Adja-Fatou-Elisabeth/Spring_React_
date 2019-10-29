@@ -1,0 +1,1 @@
+®n$node_modules/type/test/reg-exp/is.js 2jsX0h

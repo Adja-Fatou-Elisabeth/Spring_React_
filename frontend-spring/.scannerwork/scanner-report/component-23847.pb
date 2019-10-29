@@ -1,0 +1,1 @@
+§ºHnode_modules/@typescript-eslint/eslint-plugin/dist/rules/no-namespace.js 2jsX?h

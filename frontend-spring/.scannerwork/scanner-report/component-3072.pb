@@ -1,0 +1,1 @@
+€2node_modules/eslint/lib/rules/no-useless-escape.js 2jsXèh

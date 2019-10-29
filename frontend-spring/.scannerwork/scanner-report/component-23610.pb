@@ -1,0 +1,1 @@
+º¸node_modules/is-svg/index.js 2jsXh

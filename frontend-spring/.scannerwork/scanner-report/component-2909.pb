@@ -1,0 +1,1 @@
+Ý7node_modules/eslint/lib/rules/template-curly-spacing.js 2jsX}h

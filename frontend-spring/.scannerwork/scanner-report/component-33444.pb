@@ -1,0 +1,1 @@
+¤…Onode_modules/regenerate-unicode-properties/General_Category/Uppercase_Letter.js 2jsXh

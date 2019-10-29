@@ -1,0 +1,1 @@
+È+node_modules/eslint/lib/rules/func-names.js 2jsX¸h

@@ -1,0 +1,1 @@
+ѺNnode_modules/@typescript-eslint/eslint-plugin/dist/rules/prefer-regexp-exec.js 2jsX7h

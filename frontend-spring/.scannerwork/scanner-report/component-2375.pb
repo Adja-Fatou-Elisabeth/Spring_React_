@@ -1,0 +1,1 @@
+ÇNnode_modules/browser-resolve/node_modules/resolve/test/resolver/incorrect_main :Å

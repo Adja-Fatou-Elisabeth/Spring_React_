@@ -1,0 +1,1 @@
+€3node_modules/uri-js/dist/esnext/schemes/mailto.d.ts 2tsXh

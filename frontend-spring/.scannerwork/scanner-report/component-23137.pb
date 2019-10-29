@@ -1,0 +1,1 @@
+á´$node_modules/browserify-sign/browser :	à´â´ß´

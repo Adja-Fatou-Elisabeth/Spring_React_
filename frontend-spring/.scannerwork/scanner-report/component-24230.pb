@@ -1,0 +1,1 @@
+¦½:node_modules/axobject-query/lib/etc/objects/IgnoredRole.js 2jsXh

@@ -1,0 +1,1 @@
+‹',node_modules/@jest/core/build/pluralize.d.ts 2tsXh

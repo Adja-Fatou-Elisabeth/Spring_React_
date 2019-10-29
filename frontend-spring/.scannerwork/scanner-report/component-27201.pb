@@ -1,0 +1,1 @@
+ат8node_modules/jest-haste-map/build/crawlers/watchman.d.ts 2tsXh

@@ -1,0 +1,1 @@
+œ6node_modules/eslint/lib/rules/no-restricted-modules.js 2jsXµh

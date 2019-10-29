@@ -1,0 +1,1 @@
+ƒ-6node_modules/svgo/plugins/removeUnknownsAndDefaults.js 2jsX—h

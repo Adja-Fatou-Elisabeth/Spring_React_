@@ -1,0 +1,1 @@
+Ë>node_modules/browser-resolve/node_modules/resolve/test/mock.js 2jsXèh

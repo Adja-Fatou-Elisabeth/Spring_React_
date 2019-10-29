@@ -1,0 +1,1 @@
+ÂºSnode_modules/@typescript-eslint/eslint-plugin/dist/rules/type-annotation-spacing.js 2jsX¡h

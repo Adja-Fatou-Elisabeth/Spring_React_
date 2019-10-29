@@ -1,0 +1,1 @@
+€X:node_modules/caniuse-lite/data/features/async-clipboard.js 2jsXh

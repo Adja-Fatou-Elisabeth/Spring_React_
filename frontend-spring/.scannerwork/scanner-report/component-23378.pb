@@ -1,0 +1,1 @@
+ҶUnode_modules/react-scripts/node_modules/resolve/test/resolver/without_basedir/main.js 2jsXh

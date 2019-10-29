@@ -1,0 +1,1 @@
+äºOnode_modules/@typescript-eslint/eslint-plugin/dist/rules/generic-type-naming.js 2jsX5h

@@ -1,0 +1,1 @@
+ã„@node_modules/regenerate-unicode-properties/Script/SignWriting.js 2jsXh

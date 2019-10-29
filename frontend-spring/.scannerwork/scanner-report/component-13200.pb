@@ -1,0 +1,1 @@
+êg#node_modules/acorn-globals/index.js 2jsX¥h

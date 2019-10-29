@@ -1,0 +1,1 @@
+¨²#node_modules/jest-watcher/build/lib :§²ª²«²¬²®²¯²±²³²´²µ²

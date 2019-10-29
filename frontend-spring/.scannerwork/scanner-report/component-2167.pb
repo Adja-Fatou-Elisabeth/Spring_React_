@@ -1,0 +1,1 @@
+÷>node_modules/eslint-plugin-jsx-a11y/lib/rules/html-has-lang.js 2jsX-h

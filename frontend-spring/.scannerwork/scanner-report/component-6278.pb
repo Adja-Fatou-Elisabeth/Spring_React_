@@ -1,0 +1,1 @@
+†16node_modules/handlebars/dist/cjs/handlebars/decorators :…1

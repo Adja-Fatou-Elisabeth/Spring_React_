@@ -1,0 +1,1 @@
+؁7node_modules/fs-write-stream-atomic/test/rename-fail.js 2jsXh

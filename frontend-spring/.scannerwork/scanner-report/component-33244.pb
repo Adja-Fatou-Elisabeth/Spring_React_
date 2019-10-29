@@ -1,0 +1,1 @@
+܃Pnode_modules/regenerate-unicode-properties/Binary_Property/Variation_Selector.js 2jsXh

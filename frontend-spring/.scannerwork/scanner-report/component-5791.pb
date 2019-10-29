@@ -1,0 +1,1 @@
+Ÿ-1node_modules/base/node_modules/is-data-descriptor : -

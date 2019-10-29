@@ -1,0 +1,1 @@
+¶U:node_modules/eslint-plugin-react/lib/rules/no-set-state.js 2jsXTh

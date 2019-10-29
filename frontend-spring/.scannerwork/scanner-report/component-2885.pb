@@ -1,0 +1,1 @@
+Å8node_modules/eslint/lib/rules/max-statements-per-line.js 2jsXÉh

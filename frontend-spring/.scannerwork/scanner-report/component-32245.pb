@@ -1,0 +1,1 @@
+õû0node_modules/worker-farm/examples/basic/index.js 2jsXh

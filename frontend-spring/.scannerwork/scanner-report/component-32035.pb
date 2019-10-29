@@ -1,0 +1,1 @@
+£ú:node_modules/postcss-merge-longhand/dist/lib/canExplode.js 2jsXh

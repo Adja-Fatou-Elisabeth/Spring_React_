@@ -25,7 +25,7 @@ class ListCoursesComponent extends Component{
     }
 
     addCourseClicked() {
-        this.props.history.push('/courses/-1')
+        this.props.history.push('/courses/')
     }
 
     deleteCourseClicked(id) {

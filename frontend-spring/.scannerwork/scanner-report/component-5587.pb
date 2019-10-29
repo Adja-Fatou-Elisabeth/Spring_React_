@@ -1,0 +1,1 @@
+Ó+Hnode_modules/@svgr/babel-plugin-remove-jsx-empty-expression/lib/index.js 2jsXh

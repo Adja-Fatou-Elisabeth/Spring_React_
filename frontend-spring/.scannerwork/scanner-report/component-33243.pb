@@ -1,0 +1,1 @@
+ۃQnode_modules/regenerate-unicode-properties/Binary_Property/Emoji_Modifier_Base.js 2jsXh

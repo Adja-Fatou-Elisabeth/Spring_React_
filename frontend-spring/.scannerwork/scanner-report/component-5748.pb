@@ -1,0 +1,1 @@
+ô,6node_modules/svgo/plugins/addAttributesToSVGElement.js 2jsXSh

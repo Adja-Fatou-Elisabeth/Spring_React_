@@ -1,0 +1,1 @@
+¾·8node_modules/react-scripts/config/jest/babelTransform.js 2jsXh

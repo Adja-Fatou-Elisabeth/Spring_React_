@@ -1,0 +1,1 @@
+¦$node_modules/is-binary-path/index.js 2jsXh

@@ -1,0 +1,1 @@
+úƒSnode_modules/regenerate-unicode-properties/Binary_Property/Extended_Pictographic.js 2jsXh

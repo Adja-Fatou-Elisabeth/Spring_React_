@@ -1,0 +1,1 @@
+ú¶Vnode_modules/react-scripts/node_modules/resolve/test/resolver/symlinked/package/bar.js 2jsXh

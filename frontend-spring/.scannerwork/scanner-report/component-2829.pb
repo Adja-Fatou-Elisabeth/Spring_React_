@@ -1,0 +1,1 @@
+7node_modules/eslint/lib/linter/config-comment-parser.js 2jsXh

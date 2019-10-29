@@ -1,0 +1,1 @@
+ E7node_modules/jest-watch-typeahead/build/types/Config.js 2jsXh

@@ -1,0 +1,1 @@
+«6node_modules/eslint/lib/rules/array-bracket-spacing.js 2jsXòh

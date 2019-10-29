@@ -1,0 +1,1 @@
+½Dnode_modules/eslint-plugin-jsx-a11y/lib/util/isNonInteractiveRole.js 2jsXGh

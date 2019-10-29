@@ -1,0 +1,1 @@
+“…;node_modules/regenerate-unicode-properties/Script/Coptic.js 2jsXh

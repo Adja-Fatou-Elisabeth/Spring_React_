@@ -1,0 +1,1 @@
+ÃW4node_modules/caniuse-lite/data/features/svg-fonts.js 2jsXh

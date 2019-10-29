@@ -1,0 +1,1 @@
+ʃLnode_modules/regenerate-unicode-properties/Binary_Property/Quotation_Mark.js 2jsXh

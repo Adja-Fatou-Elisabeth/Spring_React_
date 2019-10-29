@@ -1,0 +1,1 @@
+‚ûnode_modules/open/index.js 2jsX‡h

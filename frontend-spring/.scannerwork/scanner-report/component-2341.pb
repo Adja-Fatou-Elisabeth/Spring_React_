@@ -1,0 +1,1 @@
+¥Hnode_modules/browser-resolve/node_modules/resolve/test/precedence/bbb.js 2jsXh

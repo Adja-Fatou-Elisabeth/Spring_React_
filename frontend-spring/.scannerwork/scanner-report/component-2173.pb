@@ -1,0 +1,1 @@
+ý^node_modules/eslint-plugin-jsx-a11y/lib/rules/no-interactive-element-to-noninteractive-role.js 2jsXWh

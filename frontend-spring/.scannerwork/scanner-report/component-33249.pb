@@ -1,0 +1,1 @@
+áƒOnode_modules/regenerate-unicode-properties/Binary_Property/Sentence_Terminal.js 2jsXh

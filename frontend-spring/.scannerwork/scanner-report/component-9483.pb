@@ -1,0 +1,1 @@
+‹J?node_modules/eslint-plugin-import/lib/rules/max-dependencies.js 2jsXGh

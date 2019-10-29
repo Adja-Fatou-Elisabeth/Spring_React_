@@ -1,0 +1,1 @@
+тPnode_modules/regenerate-unicode-properties/Script_Extensions/Zanabazar_Square.js 2jsXh

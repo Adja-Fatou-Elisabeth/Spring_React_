@@ -1,0 +1,1 @@
+©Gnode_modules/eslint-plugin-jsx-a11y/__mocks__/JSXSpreadAttributeMock.js 2jsXh

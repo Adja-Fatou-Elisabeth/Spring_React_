@@ -1,0 +1,1 @@
+ѩ4node_modules/simple-swizzle/node_modules/is-arrayish :Щ

@@ -1,0 +1,1 @@
+.node_modules/jest-validate/build/deprecated.js 2jsX!h

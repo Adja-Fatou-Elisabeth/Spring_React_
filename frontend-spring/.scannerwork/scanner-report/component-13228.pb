@@ -1,0 +1,1 @@
+¬gnode_modules/slash :­g

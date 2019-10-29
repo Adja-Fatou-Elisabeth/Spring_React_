@@ -1,0 +1,1 @@
+؃Gnode_modules/regenerate-unicode-properties/Binary_Property/Lowercase.js 2jsXh

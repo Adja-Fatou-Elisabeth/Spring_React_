@@ -1,0 +1,1 @@
+Á¡anode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/with-unicode-flag/simple :Â¡Ê¡

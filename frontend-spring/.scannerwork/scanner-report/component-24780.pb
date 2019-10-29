@@ -1,0 +1,1 @@
+лаrnode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/without-unicode-flag/unicode-11/output.js 2jsXh

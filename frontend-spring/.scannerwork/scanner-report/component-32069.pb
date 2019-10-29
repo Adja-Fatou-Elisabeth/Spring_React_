@@ -1,0 +1,1 @@
+Åú@node_modules/static-extend/node_modules/define-property/index.js 2jsX h

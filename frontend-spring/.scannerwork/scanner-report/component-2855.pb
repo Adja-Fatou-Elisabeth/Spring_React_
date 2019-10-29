@@ -1,0 +1,1 @@
+§1node_modules/eslint/lib/rules/no-empty-pattern.js 2jsX,h

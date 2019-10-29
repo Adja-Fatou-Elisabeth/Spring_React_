@@ -1,0 +1,1 @@
+œŒ2node_modules/core-js/es/string/virtual/fontsize.js 2jsXh

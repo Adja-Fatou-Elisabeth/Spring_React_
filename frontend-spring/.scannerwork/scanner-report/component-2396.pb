@@ -1,0 +1,1 @@
+ÜHnode_modules/browser-resolve/node_modules/resolve/test/resolver/quux/foo :Æ

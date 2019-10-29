@@ -1,0 +1,1 @@
+¥…Knode_modules/regenerate-unicode-properties/General_Category/Spacing_Mark.js 2jsXh

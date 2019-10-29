@@ -1,0 +1,1 @@
+öjcnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/Event.js 2jsXÖh

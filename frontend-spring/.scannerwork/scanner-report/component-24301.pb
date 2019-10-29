@@ -1,0 +1,1 @@
+í½:node_modules/axobject-query/lib/etc/objects/CaptionRole.js 2jsXh

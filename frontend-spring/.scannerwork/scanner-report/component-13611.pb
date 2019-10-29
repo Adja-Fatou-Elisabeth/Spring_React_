@@ -1,0 +1,1 @@
+«jcnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/xhr-sync-worker.js 2jsX1h

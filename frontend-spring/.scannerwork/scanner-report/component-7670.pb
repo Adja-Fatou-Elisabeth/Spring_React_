@@ -1,0 +1,1 @@
+ö;5node_modules/jest-snapshot/build/mock_serializer.d.ts 2tsXh

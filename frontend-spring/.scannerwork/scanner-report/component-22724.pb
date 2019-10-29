@@ -1,0 +1,1 @@
+ıFnode_modules/regenerator-transform/src/replaceShorthandObjectMethod.js 2jsXSh

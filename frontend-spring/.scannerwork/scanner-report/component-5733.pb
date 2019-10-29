@@ -1,0 +1,1 @@
+å,'node_modules/svgo/plugins/mergePaths.js 2jsXJh

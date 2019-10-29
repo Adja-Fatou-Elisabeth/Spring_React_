@@ -1,0 +1,1 @@
+§„Dnode_modules/regenerate-unicode-properties/Script/Psalter_Pahlavi.js 2jsXh

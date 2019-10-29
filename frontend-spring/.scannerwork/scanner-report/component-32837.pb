@@ -1,0 +1,1 @@
+Å€1node_modules/jest-jasmine2/build/jasmine/Suite.js 2jsXìh

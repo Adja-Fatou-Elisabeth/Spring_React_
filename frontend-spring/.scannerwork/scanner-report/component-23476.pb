@@ -1,0 +1,1 @@
+´·*node_modules/react-scripts/config/pnpTs.js 2jsX,h

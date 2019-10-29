@@ -1,0 +1,1 @@
+¤Ðnode_modules/is-root/index.d.ts 2tsXh

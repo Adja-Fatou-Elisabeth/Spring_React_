@@ -1,0 +1,1 @@
+¥U?node_modules/eslint-plugin-react/lib/rules/self-closing-comp.js 2jsXch

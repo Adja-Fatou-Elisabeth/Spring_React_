@@ -1,0 +1,1 @@
+ö¹:node_modules/@typescript-eslint/eslint-plugin/dist/configs :÷¹

@@ -1,0 +1,1 @@
+·&:node_modules/@jest/reporters/build/get_snapshot_summary.js 2jsXßh

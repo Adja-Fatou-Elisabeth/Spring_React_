@@ -1,0 +1,1 @@
+ȺXnode_modules/@typescript-eslint/eslint-plugin/dist/rules/adjacent-overload-signatures.js 2jsX|h

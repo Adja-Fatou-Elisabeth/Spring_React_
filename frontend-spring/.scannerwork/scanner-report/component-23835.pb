@@ -1,0 +1,1 @@
+›ºInode_modules/@typescript-eslint/eslint-plugin/dist/rules/no-type-alias.js 2jsXØh

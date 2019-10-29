@@ -1,0 +1,1 @@
+Â5node_modules/eslint/lib/rules/no-restricted-syntax.js 2jsXBh

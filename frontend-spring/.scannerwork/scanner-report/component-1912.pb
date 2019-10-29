@@ -1,0 +1,1 @@
+ø-node_modules/table/dist/stringifyTableData.js 2jsXh

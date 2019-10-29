@@ -1,0 +1,1 @@
+ռ=node_modules/@typescript-eslint/parser/dist/scope/scopes.d.ts 2tsXh

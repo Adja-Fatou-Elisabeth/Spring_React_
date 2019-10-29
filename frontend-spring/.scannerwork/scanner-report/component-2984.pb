@@ -1,0 +1,1 @@
+¨5node_modules/eslint/lib/rules/object-curly-newline.js 2jsX¯h

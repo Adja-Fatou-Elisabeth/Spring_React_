@@ -1,0 +1,1 @@
+öºMnode_modules/@typescript-eslint/eslint-plugin/dist/rules/func-call-spacing.js 2jsX‡h

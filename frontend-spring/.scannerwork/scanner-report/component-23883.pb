@@ -1,0 +1,1 @@
+˺Knode_modules/@typescript-eslint/eslint-plugin/dist/rules/no-for-in-array.js 2jsX2h

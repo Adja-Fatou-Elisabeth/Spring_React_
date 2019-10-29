@@ -1,0 +1,1 @@
+ÝKnode_modules/browser-resolve/node_modules/resolve/test/resolver/baz/quux.js 2jsXh

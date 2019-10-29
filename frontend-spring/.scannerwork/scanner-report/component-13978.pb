@@ -1,0 +1,1 @@
+šmXnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/helpers :*™m˜m›mœmmŸmm¡m m¢m£m¤m¥m¦m§m¨m©mªm«m­m®m

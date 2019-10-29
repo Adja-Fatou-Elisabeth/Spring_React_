@@ -1,0 +1,1 @@
+Ÿ%node_modules/events/tests/subclass.js 2jsXCh

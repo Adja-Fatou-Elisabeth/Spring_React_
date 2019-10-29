@@ -1,0 +1,1 @@
+ÿ,2node_modules/svgo/plugins/moveElemsAttrsToGroup.js 2jsXh

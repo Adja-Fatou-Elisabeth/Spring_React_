@@ -1,0 +1,1 @@
+ý;-node_modules/jest-snapshot/build/plugins.d.ts 2tsX	h

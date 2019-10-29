@@ -1,0 +1,1 @@
+܄=node_modules/regenerate-unicode-properties/Script/Tai_Viet.js 2jsXh

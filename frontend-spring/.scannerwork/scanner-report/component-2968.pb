@@ -1,0 +1,1 @@
+˜0node_modules/eslint/lib/rules/no-regex-spaces.js 2jsX²h

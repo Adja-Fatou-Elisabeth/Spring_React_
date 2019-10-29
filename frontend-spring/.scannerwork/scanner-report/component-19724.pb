@@ -1,0 +1,1 @@
+Œš!node_modules/glob-parent/index.js 2jsX*h

@@ -1,0 +1,1 @@
+¿,5node_modules/@svgr/babel-plugin-add-jsx-attribute/lib :„,

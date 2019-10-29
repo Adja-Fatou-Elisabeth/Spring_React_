@@ -1,0 +1,1 @@
+É©(node_modules/istanbul-reports/lib/clover :Å©

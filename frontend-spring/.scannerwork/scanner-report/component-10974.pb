@@ -1,0 +1,1 @@
+ÞU?node_modules/eslint-plugin-react/lib/rules/jsx-curly-newline.js 2jsX¼h

@@ -1,0 +1,1 @@
+ÁOnode_modules/browser-resolve/node_modules/resolve/test/node_path/x/ccc/index.js 2jsXh

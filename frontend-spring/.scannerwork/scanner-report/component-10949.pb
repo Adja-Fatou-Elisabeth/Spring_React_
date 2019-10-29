@@ -1,0 +1,1 @@
+ÅUAnode_modules/eslint-plugin-react/lib/rules/boolean-prop-naming.js 2jsXÂh

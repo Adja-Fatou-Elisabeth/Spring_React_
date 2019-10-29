@@ -1,0 +1,1 @@
+¼0node_modules/eslint/lib/rules/no-class-assign.js 2jsX>h

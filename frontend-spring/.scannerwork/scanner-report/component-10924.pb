@@ -1,0 +1,1 @@
+¬UGnode_modules/eslint-plugin-react/lib/rules/prefer-stateless-function.js 2jsXýh

@@ -1,0 +1,1 @@
+¢,$node_modules/@svgr/core/lib/index.js 2jsXh

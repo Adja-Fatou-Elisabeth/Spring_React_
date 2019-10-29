@@ -1,0 +1,1 @@
+ÃI@node_modules/eslint-plugin-import/node_modules/read-pkg/index.js 2jsX0h

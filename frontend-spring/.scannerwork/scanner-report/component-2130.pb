@@ -1,0 +1,1 @@
+ÒCnode_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles/tfoot.js 2jsXh

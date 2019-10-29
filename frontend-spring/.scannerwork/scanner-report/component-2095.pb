@@ -1,0 +1,1 @@
+¯Anode_modules/eslint-plugin-jsx-a11y/lib/util/isInteractiveRole.js 2jsXEh

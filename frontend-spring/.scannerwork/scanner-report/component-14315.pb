@@ -1,0 +1,1 @@
+ëoBnode_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js 2jsXh

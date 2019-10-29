@@ -1,0 +1,1 @@
+ K+node_modules/es5-ext/reg-exp/#/is-sticky.js 2jsXh

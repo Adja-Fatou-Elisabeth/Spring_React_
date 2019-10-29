@@ -1,0 +1,1 @@
+úWInode_modules/caniuse-lite/data/features/img-naturalwidth-naturalheight.js 2jsXh

@@ -1,0 +1,1 @@
+ˆ‚?node_modules/@cnakazawa/watch/test/test_monitorRootDirectory.js 2jsXh

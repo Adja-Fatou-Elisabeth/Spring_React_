@@ -1,0 +1,1 @@
+ðkonode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/HTMLCanvasElement.js 2jsXëh

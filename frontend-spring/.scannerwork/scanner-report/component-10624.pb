@@ -1,0 +1,1 @@
+€SLnode_modules/jest/node_modules/jest-cli/build/init/generate_config_file.d.ts 2tsX	h

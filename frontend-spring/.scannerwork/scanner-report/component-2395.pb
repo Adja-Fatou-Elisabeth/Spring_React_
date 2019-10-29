@@ -1,0 +1,1 @@
+ÛTnode_modules/browser-resolve/node_modules/resolve/test/resolver/bar/node_modules/foo :Ú

@@ -1,0 +1,1 @@
+ÁAnode_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles/img.js 2jsXh

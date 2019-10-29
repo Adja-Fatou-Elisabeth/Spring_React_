@@ -1,0 +1,1 @@
+แร$node_modules/@babel/preset-react/lib :เร

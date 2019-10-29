@@ -1,0 +1,1 @@
+Լ=node_modules/@typescript-eslint/parser/dist/parser-options.js 2jsXh

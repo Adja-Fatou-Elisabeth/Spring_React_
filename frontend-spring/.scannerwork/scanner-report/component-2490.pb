@@ -1,0 +1,1 @@
+º5node_modules/jest-worker/build/base/BaseWorkerPool.js 2jsX‡h

@@ -1,0 +1,1 @@
+¯menode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/register-elements.js 2jsX„h

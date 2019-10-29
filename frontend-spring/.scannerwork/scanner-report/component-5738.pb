@@ -1,0 +1,1 @@
+ê,*node_modules/svgo/plugins/convertColors.js 2jsXƒh

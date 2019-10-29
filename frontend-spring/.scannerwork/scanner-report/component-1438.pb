@@ -1,0 +1,1 @@
+žUnode_modules/babel-plugin-macros/dist/__tests__/fixtures/config/configurable.macro.js 2jsXh

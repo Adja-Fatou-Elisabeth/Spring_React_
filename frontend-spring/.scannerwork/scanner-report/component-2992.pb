@@ -1,0 +1,1 @@
+°*node_modules/eslint/lib/rules/camelcase.js 2jsXåh

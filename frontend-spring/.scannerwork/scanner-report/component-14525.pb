@@ -1,0 +1,1 @@
+Ωq.node_modules/http-errors/node_modules/inherits :æq¿q

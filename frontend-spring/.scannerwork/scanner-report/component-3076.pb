@@ -1,0 +1,1 @@
+„.node_modules/eslint/lib/rules/getter-return.js 2jsX»h

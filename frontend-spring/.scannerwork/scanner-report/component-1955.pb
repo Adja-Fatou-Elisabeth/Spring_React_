@@ -1,0 +1,1 @@
+£,node_modules/table/dist/validateTableData.js 2jsX`h

@@ -1,0 +1,1 @@
+ÚUGnode_modules/eslint-plugin-react/lib/rules/forbid-foreign-prop-types.js 2jsXÇh

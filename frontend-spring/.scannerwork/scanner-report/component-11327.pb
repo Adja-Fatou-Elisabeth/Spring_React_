@@ -1,0 +1,1 @@
+¿X5node_modules/caniuse-lite/data/features/css-sticky.js 2jsXh

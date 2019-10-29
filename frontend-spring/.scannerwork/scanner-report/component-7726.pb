@@ -1,0 +1,1 @@
+®<.node_modules/whatwg-mimetype/lib/serializer.js 2jsXh

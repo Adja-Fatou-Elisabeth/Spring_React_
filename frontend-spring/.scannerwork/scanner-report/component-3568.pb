@@ -1,0 +1,1 @@
+ðnode_modules/typedarray/example :ï

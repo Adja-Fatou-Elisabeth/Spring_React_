@@ -1,0 +1,1 @@
+ð(node_modules/eslint/lib/rules/no-sync.js 2jsX:h

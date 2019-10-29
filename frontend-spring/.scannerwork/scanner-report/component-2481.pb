@@ -1,0 +1,1 @@
+±=node_modules/jest-worker/node_modules/supports-color/index.js 2jsX‹h

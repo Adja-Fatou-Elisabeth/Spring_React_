@@ -1,0 +1,1 @@
+æRnode_modules/jest/bin/jest.js 2jsXh

@@ -1,0 +1,1 @@
+¾W8node_modules/caniuse-lite/data/features/sharedworkers.js 2jsXh

@@ -1,0 +1,1 @@
+ãnode_modules/eslint/lib/linter :äåçéñóòöõúùû

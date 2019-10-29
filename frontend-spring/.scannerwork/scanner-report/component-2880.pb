@@ -1,0 +1,1 @@
+À-node_modules/eslint/lib/rules/dot-notation.js 2jsX®h

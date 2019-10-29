@@ -1,0 +1,1 @@
+·¿Pnode_modules/@babel/preset-typescript/test/fixtures/jsx-compat/js-valid/input.js 2jsXh

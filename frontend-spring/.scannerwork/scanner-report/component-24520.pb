@@ -1,0 +1,1 @@
+ȿSnode_modules/@babel/preset-typescript/test/fixtures/flow-compat/ts-invalid/input.ts 2tsXh

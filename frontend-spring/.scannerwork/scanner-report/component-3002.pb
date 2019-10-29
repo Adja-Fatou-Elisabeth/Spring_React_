@@ -1,0 +1,1 @@
+º,node_modules/eslint/lib/rules/utils/patterns :¹

@@ -1,0 +1,1 @@
+Š¾8node_modules/axobject-query/lib/etc/objects/ImageRole.js 2jsXh

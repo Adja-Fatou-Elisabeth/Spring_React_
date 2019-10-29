@@ -1,0 +1,1 @@
+ºU>node_modules/eslint-plugin-react/lib/rules/prefer-es6-class.js 2jsX4h

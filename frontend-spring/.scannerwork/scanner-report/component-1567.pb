@@ -1,0 +1,1 @@
+Ÿnode_modules/aws-sign2/index.js 2jsXÕh

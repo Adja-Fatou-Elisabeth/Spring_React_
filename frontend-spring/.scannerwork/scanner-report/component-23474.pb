@@ -1,0 +1,1 @@
+²·Anode_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js 2jsX‰h

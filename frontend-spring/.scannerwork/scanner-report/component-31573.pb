@@ -1,0 +1,1 @@
+Õö/node_modules/global-prefix/node_modules/kind-of :×ö

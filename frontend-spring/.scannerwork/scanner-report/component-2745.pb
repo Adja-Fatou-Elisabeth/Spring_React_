@@ -1,0 +1,1 @@
+¹&node_modules/eslint/conf/eslint-all.js 2jsX h

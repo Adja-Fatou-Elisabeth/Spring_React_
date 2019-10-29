@@ -1,0 +1,1 @@
+¥@node_modules/eslint-plugin-jsx-a11y/__mocks__/genInteractives.js 2jsXÏh

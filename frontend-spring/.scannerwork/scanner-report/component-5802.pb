@@ -1,0 +1,1 @@
+ª-,node_modules/base/node_modules/is-descriptor :¬-

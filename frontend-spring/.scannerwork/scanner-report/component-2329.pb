@@ -1,0 +1,1 @@
+™Gnode_modules/browser-resolve/node_modules/resolve/test/resolver_sync.js 2jsXµh

@@ -1,0 +1,1 @@
+ރZnode_modules/regenerate-unicode-properties/Binary_Property/Changes_When_NFKC_Casefolded.js 2jsXh

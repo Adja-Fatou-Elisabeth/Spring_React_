@@ -1,0 +1,1 @@
+Å&node_modules/eslint/lib/rules/curly.js 2jsXíh

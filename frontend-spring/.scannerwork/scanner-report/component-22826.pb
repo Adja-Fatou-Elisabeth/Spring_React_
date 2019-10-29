@@ -1,0 +1,1 @@
+ª²@node_modules/jest-watcher/build/lib/formatTestNameByPattern.d.ts 2tsX	h

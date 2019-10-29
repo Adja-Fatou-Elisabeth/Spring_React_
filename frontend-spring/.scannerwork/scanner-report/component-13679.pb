@@ -1,0 +1,1 @@
+ïjunode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/HTMLTableCaptionElement.js 2jsXuh

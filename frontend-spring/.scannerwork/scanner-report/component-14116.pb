@@ -1,0 +1,1 @@
+¤n+node_modules/type/test/plain-function/is.js 2jsX9h

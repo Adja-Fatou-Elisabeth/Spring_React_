@@ -1,0 +1,1 @@
+ö©.node_modules/istanbul-reports/lib/text-summary :è©

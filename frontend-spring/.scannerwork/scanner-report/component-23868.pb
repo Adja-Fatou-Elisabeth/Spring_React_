@@ -1,0 +1,1 @@
+¼ºSnode_modules/@typescript-eslint/eslint-plugin/dist/rules/no-parameter-properties.js 2jsX^h

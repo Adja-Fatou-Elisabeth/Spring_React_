@@ -1,0 +1,1 @@
+รา&node_modules/asn1.js/lib/asn1/decoders :	ยาลาฤา

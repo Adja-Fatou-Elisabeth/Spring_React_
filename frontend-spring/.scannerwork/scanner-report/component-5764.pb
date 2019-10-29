@@ -1,0 +1,1 @@
+„-0node_modules/svgo/plugins/convertStyleToAttrs.js 2jsX~h

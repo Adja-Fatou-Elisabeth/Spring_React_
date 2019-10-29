@@ -1,0 +1,1 @@
+»­Fnode_modules/@webassemblyjs/ast/lib/transform/wast-identifier-to-index :º­

@@ -1,0 +1,1 @@
+เว<node_modules/aria-query/lib/etc/roles/abstract/windowRole.js 2jsXh

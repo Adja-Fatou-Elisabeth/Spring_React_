@@ -1,0 +1,1 @@
+ÂÃAnode_modules/@babel/plugin-proposal-class-properties/lib/index.js 2jsX*h

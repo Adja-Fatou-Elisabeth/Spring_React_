@@ -1,0 +1,1 @@
+°4node_modules/eslint/lib/rules/space-before-blocks.js 2jsX¡h

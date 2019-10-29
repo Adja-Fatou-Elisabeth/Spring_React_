@@ -1,0 +1,1 @@
+½ƒFnode_modules/regenerate-unicode-properties/Script_Extensions/Hangul.js 2jsXh

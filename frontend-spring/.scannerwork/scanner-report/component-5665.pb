@@ -1,0 +1,1 @@
+¡,%node_modules/@svgr/core/lib/config.js 2jsXZh

@@ -1,0 +1,1 @@
+‰ node_modules/isexe/test/basic.js 2jsXÞh

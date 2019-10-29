@@ -1,0 +1,1 @@
+½jfnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/Document.js 2jsXŠh

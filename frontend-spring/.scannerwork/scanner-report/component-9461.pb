@@ -1,0 +1,1 @@
+õIGnode_modules/eslint-plugin-import/lib/rules/no-webpack-loader-syntax.js 2jsX(h

@@ -1,0 +1,1 @@
+Ù∆)node_modules/validate-npm-package-license :ı∆

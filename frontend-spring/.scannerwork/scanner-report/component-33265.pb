@@ -1,0 +1,1 @@
+ñƒHnode_modules/regenerate-unicode-properties/Binary_Property/Deprecated.js 2jsXh

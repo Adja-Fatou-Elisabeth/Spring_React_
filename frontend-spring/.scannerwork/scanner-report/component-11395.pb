@@ -1,0 +1,1 @@
+ƒY;node_modules/caniuse-lite/data/features/css-motion-paths.js 2jsXh

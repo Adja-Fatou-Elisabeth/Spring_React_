@@ -1,0 +1,1 @@
+ÙY;node_modules/caniuse-lite/data/features/css-font-stretch.js 2jsXh

@@ -1,0 +1,1 @@
+Ñjnnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/NavigatorCookies.js 2jsXch

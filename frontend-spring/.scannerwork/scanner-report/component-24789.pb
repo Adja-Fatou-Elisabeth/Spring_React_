@@ -1,0 +1,1 @@
+уаdnode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/without-unicode-flag/simple :тажа

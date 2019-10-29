@@ -1,0 +1,1 @@
+ž-node_modules/exit/test/fixtures/log-broken.js 2jsXh

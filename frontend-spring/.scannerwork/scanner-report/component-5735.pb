@@ -1,0 +1,1 @@
+ç,1node_modules/svgo/plugins/cleanupNumericValues.js 2jsXYh

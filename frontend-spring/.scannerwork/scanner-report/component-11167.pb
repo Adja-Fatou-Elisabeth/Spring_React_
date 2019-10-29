@@ -1,0 +1,1 @@
+ŸW2node_modules/caniuse-lite/data/features/svg-img.js 2jsXh

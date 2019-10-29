@@ -1,0 +1,1 @@
+¬jsnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/HTMLOptionsCollection.js 2jsX½h

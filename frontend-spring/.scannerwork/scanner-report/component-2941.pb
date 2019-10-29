@@ -1,0 +1,1 @@
+ý4node_modules/eslint/lib/rules/rest-spread-spacing.js 2jsXwh

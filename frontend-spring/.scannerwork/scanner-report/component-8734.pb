@@ -1,0 +1,1 @@
+DDnode_modules/fork-ts-checker-webpack-plugin/lib/NormalizedMessage.js 2jsXxh

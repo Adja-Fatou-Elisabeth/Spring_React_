@@ -1,0 +1,1 @@
+r'node_modules/uri-js/dist/esnext/schemes :quvy|~s€x

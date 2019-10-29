@@ -1,0 +1,1 @@
+Þ,+node_modules/svgo/plugins/collapseGroups.js 2jsXXh

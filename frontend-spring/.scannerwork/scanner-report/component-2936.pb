@@ -1,0 +1,1 @@
+ø/node_modules/eslint/lib/rules/no-new-require.js 2jsX'h

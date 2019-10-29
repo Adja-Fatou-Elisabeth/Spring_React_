@@ -1,0 +1,1 @@
+©iPnode_modules/jest-environment-jsdom-fourteen/node_modules/ws/lib/event-target.js 2jsX«h

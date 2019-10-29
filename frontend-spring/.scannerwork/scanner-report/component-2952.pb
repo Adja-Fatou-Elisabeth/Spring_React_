@@ -1,0 +1,1 @@
+ˆ*node_modules/eslint/lib/rules/max-lines.js 2jsX•h

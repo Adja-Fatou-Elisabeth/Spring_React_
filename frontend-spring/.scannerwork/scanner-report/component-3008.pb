@@ -1,0 +1,1 @@
+À@node_modules/eslint/lib/rules/utils/unicode/is-emoji-modifier.js 2jsXh

@@ -1,0 +1,1 @@
+‡Hnode_modules/eslint-plugin-jsx-a11y/__tests__/src/rules/alt-text-test.js 2jsXùh

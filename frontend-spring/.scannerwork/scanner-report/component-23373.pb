@@ -1,0 +1,1 @@
+ͶUnode_modules/react-scripts/node_modules/resolve/test/resolver/incorrect_main/index.js 2jsXh

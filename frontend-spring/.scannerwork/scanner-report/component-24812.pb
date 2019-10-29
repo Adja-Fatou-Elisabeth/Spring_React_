@@ -1,0 +1,1 @@
+Ï¡Gnode_modules/@babel/plugin-proposal-unicode-property-regex/lib/index.js 2jsXNh

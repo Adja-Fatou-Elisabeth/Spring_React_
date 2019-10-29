@@ -1,0 +1,1 @@
+»Knode_modules/@typescript-eslint/eslint-plugin/dist/rules/no-var-requires.js 2jsX,h

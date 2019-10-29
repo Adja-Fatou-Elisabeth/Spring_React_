@@ -1,0 +1,1 @@
+ϿQnode_modules/@babel/preset-typescript/test/fixtures/flow-compat/ts-valid/input.ts 2tsXh

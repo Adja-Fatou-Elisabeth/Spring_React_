@@ -1,0 +1,1 @@
+¯²>node_modules/jest-watcher/build/lib/formatTestNameByPattern.js 2jsXTh

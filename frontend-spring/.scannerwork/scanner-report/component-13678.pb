@@ -1,0 +1,1 @@
+îjsnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/SVGBoundingBoxOptions.js 2jsXCh

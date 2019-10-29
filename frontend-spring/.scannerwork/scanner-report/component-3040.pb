@@ -1,0 +1,1 @@
+à6node_modules/eslint/lib/rules/no-restricted-globals.js 2jsX|h

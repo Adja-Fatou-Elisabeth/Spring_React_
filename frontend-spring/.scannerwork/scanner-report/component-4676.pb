@@ -1,0 +1,1 @@
+Ä$node_modules/spdx-correct :Å$

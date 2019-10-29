@@ -1,0 +1,1 @@
+ՃQnode_modules/regenerate-unicode-properties/Binary_Property/Pattern_White_Space.js 2jsXh

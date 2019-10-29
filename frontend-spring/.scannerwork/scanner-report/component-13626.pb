@@ -1,0 +1,1 @@
+ºjhnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/FileReader.js 2jsXîh

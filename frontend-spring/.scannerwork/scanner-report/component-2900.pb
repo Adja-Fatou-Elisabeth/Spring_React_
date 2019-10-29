@@ -1,0 +1,1 @@
+Ô5node_modules/eslint/lib/rules/no-this-before-super.js 2jsX®h

@@ -1,0 +1,1 @@
+Ä:node_modules/regenerate-unicode-properties/Script/Osage.js 2jsXh

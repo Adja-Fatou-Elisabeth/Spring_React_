@@ -1,0 +1,1 @@
+Æjenode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/UIEvent.js 2jsXÍh

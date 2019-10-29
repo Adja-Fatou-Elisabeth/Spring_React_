@@ -1,0 +1,1 @@
+®²1node_modules/jest-watcher/build/lib/colorize.d.ts 2tsX	h

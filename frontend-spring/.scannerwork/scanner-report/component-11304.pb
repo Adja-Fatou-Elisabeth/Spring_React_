@@ -1,0 +1,1 @@
+¨XAnode_modules/caniuse-lite/data/features/contentsecuritypolicy2.js 2jsXh

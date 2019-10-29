@@ -1,0 +1,1 @@
+Ž5node_modules/eslint/lib/rules/object-curly-spacing.js 2jsX¯h

@@ -1,0 +1,1 @@
+´¶Anode_modules/react-scripts/node_modules/resolve/test/mock_sync.js 2jsXQh

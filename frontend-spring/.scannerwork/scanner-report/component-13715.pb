@@ -1,0 +1,1 @@
+“kjnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/DOMTokenList.js 2jsXÉh

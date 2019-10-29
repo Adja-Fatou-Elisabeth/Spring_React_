@@ -1,0 +1,1 @@
+²UEnode_modules/eslint-plugin-react/lib/rules/jsx-first-prop-new-line.js 2jsXGh

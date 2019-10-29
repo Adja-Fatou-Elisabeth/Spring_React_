@@ -1,0 +1,1 @@
+„ö7node_modules/babel-preset-react-app/node_modules/semver :Šö

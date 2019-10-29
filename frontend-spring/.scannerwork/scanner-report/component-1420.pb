@@ -1,0 +1,1 @@
+Œbnode_modules/babel-plugin-macros/dist/__tests__/fixtures/path-replace-issue/variable-assignment.js 2jsXh

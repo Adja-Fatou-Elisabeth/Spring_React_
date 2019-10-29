@@ -1,0 +1,1 @@
+маynode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/without-unicode-flag/script-extensions/output.js 2jsXh

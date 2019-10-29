@@ -1,0 +1,1 @@
+Ÿ«7node_modules/request-promise-core/configure/request2.js 2jsXKh

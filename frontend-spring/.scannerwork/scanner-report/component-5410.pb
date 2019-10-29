@@ -1,0 +1,1 @@
+¢*9node_modules/snapdragon-node/node_modules/define-property :¤*

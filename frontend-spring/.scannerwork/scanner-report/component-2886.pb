@@ -1,0 +1,1 @@
+Æ6node_modules/eslint/lib/rules/array-element-newline.js 2jsX‡h

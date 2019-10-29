@@ -1,0 +1,1 @@
+ý+#node_modules/@svgr/babel-preset/lib :ü+

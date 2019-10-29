@@ -1,0 +1,1 @@
+øW7node_modules/caniuse-lite/data/features/font-kerning.js 2jsXh

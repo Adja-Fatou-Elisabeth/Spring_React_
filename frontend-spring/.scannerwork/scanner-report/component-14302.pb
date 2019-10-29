@@ -1,0 +1,1 @@
+Þo:node_modules/resolve/test/resolver/dot_slash_main/index.js 2jsXh

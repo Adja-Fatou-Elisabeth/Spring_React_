@@ -1,0 +1,1 @@
+«o:node_modules/resolve/test/module_dir/ymodules/aaa/index.js 2jsXh

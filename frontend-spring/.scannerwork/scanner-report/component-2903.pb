@@ -1,0 +1,1 @@
+×1node_modules/eslint/lib/rules/no-global-assign.js 2jsXYh

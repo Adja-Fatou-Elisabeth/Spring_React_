@@ -1,0 +1,1 @@
+W&node_modules/uri-js/src/regexps-iri.ts 2tsXh

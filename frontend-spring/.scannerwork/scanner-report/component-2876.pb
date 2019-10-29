@@ -1,0 +1,1 @@
+¼3node_modules/eslint/lib/rules/no-unsafe-negation.js 2jsXPh

@@ -1,0 +1,1 @@
+Ë,"node_modules/@svgr/plugin-svgo/lib :Š,

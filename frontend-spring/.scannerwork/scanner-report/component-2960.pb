@@ -1,0 +1,1 @@
+ê1node_modules/eslint/lib/rules/no-control-regex.js 2jsXrh

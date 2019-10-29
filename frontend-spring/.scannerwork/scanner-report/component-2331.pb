@@ -1,0 +1,1 @@
+›Fnode_modules/browser-resolve/node_modules/resolve/test/dotdot/index.js 2jsXh

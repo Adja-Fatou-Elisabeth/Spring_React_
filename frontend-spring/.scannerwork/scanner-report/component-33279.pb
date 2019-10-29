@@ -1,0 +1,1 @@
+ÿƒFnode_modules/regenerate-unicode-properties/Binary_Property/ID_Start.js 2jsXh

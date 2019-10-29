@@ -1,0 +1,1 @@
+ʿJnode_modules/@babel/preset-typescript/test/fixtures/flow-compat/js-invalid :˿

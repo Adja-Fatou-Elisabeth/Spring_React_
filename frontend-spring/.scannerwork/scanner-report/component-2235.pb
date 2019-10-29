@@ -1,0 +1,1 @@
+»=node_modules/eslint-plugin-jsx-a11y/scripts/addRuleToIndex.js 2jsX6h

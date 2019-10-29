@@ -1,0 +1,1 @@
+›(node_modules/emoji-regex/es2015/index.js 2jsXh

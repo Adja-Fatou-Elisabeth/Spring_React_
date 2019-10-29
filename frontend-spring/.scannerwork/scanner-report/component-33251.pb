@@ -1,0 +1,1 @@
+ãƒHnode_modules/regenerate-unicode-properties/Binary_Property/Alphabetic.js 2jsXh

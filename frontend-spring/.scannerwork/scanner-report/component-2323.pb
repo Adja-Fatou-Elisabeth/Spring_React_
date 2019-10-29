@@ -1,0 +1,1 @@
+“Anode_modules/browser-resolve/node_modules/resolve/example/sync.js 2jsXh

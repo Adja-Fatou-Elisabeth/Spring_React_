@@ -1,0 +1,1 @@
+ï,2node_modules/svgo/plugins/removeEmptyContainers.js 2jsX!h

@@ -1,0 +1,1 @@
+‡ž1node_modules/jest-validate/build/exampleConfig.js 2jsX%h

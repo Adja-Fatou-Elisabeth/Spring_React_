@@ -1,0 +1,1 @@
+«Ê/node_modules/confusing-browser-globals/index.js 2jsXFh

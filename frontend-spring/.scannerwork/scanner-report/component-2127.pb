@@ -1,0 +1,1 @@
+ÏEnode_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles/article.js 2jsXh

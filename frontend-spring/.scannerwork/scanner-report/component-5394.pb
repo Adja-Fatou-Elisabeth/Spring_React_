@@ -1,0 +1,1 @@
+’*<node_modules/snapdragon-node/node_modules/is-data-descriptor :”*

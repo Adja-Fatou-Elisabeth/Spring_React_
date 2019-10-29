@@ -1,0 +1,1 @@
+¤,&node_modules/@svgr/core/lib/plugins.js 2jsX:h

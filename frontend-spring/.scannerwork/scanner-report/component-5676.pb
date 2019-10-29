@@ -1,0 +1,1 @@
+¬,>node_modules/@svgr/hast-util-to-babel-ast/lib/getAttributes.js 2jsXNh

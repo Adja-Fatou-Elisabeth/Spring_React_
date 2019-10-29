@@ -1,0 +1,1 @@
+Є:node_modules/regenerate-unicode-properties/Script/Takri.js 2jsXh

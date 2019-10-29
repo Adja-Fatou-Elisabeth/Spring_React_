@@ -1,0 +1,1 @@
+®ÿ9node_modules/jsdom/lib/jsdom/living/window/Screen-impl.js 2jsXh

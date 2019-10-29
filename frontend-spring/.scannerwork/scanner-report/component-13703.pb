@@ -1,0 +1,1 @@
+ákrnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/HTMLTableCellElement.js 2jsXùh

@@ -1,0 +1,1 @@
+ی/node_modules/core-js/es/object/lookup-getter.js 2jsXh

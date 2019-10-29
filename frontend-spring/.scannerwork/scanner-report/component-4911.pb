@@ -1,0 +1,1 @@
+¯&5node_modules/@jest/reporters/build/coverage_worker.js 2jsXXh

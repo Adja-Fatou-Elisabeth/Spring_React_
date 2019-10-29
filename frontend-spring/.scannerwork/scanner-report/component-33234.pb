@@ -1,0 +1,1 @@
+҃Inode_modules/regenerate-unicode-properties/Binary_Property/Soft_Dotted.js 2jsXh

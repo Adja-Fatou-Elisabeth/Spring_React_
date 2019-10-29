@@ -1,0 +1,1 @@
+æ2node_modules/eslint/lib/rules/no-invalid-regexp.js 2jsXh

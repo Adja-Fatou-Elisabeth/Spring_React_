@@ -1,0 +1,1 @@
+—,node_modules/eslint/lib/rules/no-new-func.js 2jsX1h

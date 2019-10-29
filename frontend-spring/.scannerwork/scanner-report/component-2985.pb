@@ -1,0 +1,1 @@
+©9node_modules/eslint/lib/rules/newline-per-chained-call.js 2jsXqh

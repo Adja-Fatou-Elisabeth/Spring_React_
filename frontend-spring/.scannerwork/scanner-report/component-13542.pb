@@ -1,0 +1,1 @@
+æi[node_modules/jest-environment-jsdom-fourteen/node_modules/whatwg-url/lib/URLSearchParams.js 2jsX±h

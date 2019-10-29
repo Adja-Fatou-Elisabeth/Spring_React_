@@ -1,0 +1,1 @@
+ägnode_modules/acorn-globals :êg

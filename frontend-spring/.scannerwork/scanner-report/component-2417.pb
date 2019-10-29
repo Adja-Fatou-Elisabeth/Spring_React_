@@ -1,0 +1,1 @@
+ñ=node_modules/browser-resolve/node_modules/resolve/lib/sync.js 2jsXRh

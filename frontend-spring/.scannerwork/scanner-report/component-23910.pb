@@ -1,0 +1,1 @@
+æºPnode_modules/@typescript-eslint/eslint-plugin/dist/rules/no-array-constructor.js 2jsX:h

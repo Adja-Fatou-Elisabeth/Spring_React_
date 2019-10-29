@@ -1,0 +1,1 @@
+¤DDnode_modules/fork-ts-checker-webpack-plugin/lib/patchTypescript.d.ts 2tsXh

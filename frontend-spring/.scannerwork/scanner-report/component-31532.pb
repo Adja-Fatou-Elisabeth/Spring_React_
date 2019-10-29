@@ -1,0 +1,1 @@
+¬öXnode_modules/babel-preset-react-app/node_modules/@babel/preset-env/lib/polyfills/corejs2 :«ö­ö©ö®ö

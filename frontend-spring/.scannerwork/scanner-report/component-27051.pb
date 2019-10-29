@@ -1,0 +1,1 @@
+«Ó/node_modules/is-color-stop/lib/isTransparent.js 2jsXh

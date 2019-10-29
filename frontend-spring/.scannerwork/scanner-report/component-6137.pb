@@ -1,0 +1,1 @@
+ù/@node_modules/babel-plugin-syntax-object-rest-spread/lib/index.js 2jsXh

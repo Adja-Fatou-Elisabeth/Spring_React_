@@ -1,0 +1,1 @@
+Воnode_modules/safer-buffer :	 нГоБо

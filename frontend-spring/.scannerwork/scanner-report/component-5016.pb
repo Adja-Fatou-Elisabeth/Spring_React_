@@ -1,0 +1,1 @@
+˜';node_modules/@jest/core/build/plugins/update_snapshots.d.ts 2tsXh

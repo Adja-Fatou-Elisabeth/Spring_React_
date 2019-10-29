@@ -1,0 +1,1 @@
+…l~node_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/navigator/NavigatorConcurrentHardware-impl.js 2jsX	h

@@ -1,0 +1,1 @@
+­Cnode_modules/browser-resolve/node_modules/resolve/test/mock_sync.js 2jsXEh

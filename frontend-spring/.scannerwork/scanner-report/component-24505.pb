@@ -1,0 +1,1 @@
+¹¿Hnode_modules/@babel/preset-typescript/test/fixtures/jsx-compat/tsx-valid :¸¿º¿

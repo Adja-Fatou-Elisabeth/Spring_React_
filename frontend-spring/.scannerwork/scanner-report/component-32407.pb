@@ -1,0 +1,1 @@
+—ýAnode_modules/jsdom/lib/jsdom/living/generated/NavigatorCookies.js 2jsXsh

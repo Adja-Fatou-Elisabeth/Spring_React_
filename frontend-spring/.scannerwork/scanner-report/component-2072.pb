@@ -1,0 +1,1 @@
+˜mnode_modules/eslint-plugin-jsx-a11y/__tests__/src/rules/no-noninteractive-element-to-interactive-role-test.js 2jsXåh

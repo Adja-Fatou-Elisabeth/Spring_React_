@@ -1,0 +1,23 @@
+SonarQube plugins:
+  - SonarC# 6.5.0.3766 (csharp)
+  - SonarPython 1.8.0.1496 (python)
+  - SonarJava 4.15.0.12310 (java)
+  - Flex 2.3 (flex)
+  - SonarQube :: Plugins :: SCM :: Git 1.3.0.869 (scmgit)
+  - SonarXML 1.4.3.1027 (xml)
+  - SonarPHP 2.11.0.2485 (php)
+  - SonarTS 1.1.0.1079 (typescript)
+  - SonarQube :: Plugins :: SCM :: SVN 1.6.0.860 (scmsvn)
+  - SonarJS 3.2.0.5506 (javascript)
+Global properties:
+  - sonar.core.id=A7EE8CF2-AWz8glxDlgqIcWCAVLJb
+  - sonar.core.startTime=2019-10-28T09:28:55+0000
+Settings for module: Spring_React
+  - sonar.host.url=http://localhost:9000
+  - sonar.projectBaseDir=/home/adja/Documents/Personnel/Spring_React_/frontend-spring
+  - sonar.projectKey=Spring_React
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=4.0.0.1744
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=.
+  - sonar.working.directory=/home/adja/Documents/Personnel/Spring_React_/frontend-spring/.scannerwork

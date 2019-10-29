@@ -1,0 +1,1 @@
+JInode_modules/eslint-plugin-import/lib/rules/no-relative-parent-imports.js 2jsX@h

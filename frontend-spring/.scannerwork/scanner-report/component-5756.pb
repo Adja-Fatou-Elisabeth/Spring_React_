@@ -1,0 +1,1 @@
+ü,*node_modules/svgo/plugins/removeViewBox.js 2jsX1h

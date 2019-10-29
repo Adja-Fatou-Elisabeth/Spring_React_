@@ -1,0 +1,1 @@
+ÓI:node_modules/eslint-plugin-import/lib/importDeclaration.js 2jsXh

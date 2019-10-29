@@ -1,0 +1,1 @@
+åqnode_modules/string-width :æq

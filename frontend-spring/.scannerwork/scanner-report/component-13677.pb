@@ -1,0 +1,1 @@
+íjjnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/NamedNodeMap.js 2jsXÙh

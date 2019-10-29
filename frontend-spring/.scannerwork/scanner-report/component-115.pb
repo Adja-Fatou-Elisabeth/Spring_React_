@@ -1,0 +1,1 @@
+s1node_modules/uri-js/dist/esnext/schemes/http.d.ts 2tsXh

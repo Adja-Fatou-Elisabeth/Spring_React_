@@ -1,0 +1,1 @@
+­Ënode_modules/ua-parser-js/test :®Ë

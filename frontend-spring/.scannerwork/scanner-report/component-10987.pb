@@ -1,0 +1,1 @@
+ÎUGnode_modules/eslint-plugin-react/lib/rules/static-property-placement.js 2jsX¶h

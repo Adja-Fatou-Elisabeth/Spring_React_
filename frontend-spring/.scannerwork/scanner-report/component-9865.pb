@@ -1,0 +1,1 @@
+‰M5node_modules/es5-ext/test/object/is-plain-function.js 2jsX(h

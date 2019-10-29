@@ -1,0 +1,1 @@
+Œ)node_modules/eslint/lib/rules/id-match.js 2jsXâh

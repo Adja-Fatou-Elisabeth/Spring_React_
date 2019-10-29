@@ -1,0 +1,1 @@
+ð„Jnode_modules/regenerate-unicode-properties/Script/Anatolian_Hieroglyphs.js 2jsXh

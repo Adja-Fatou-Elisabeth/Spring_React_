@@ -1,0 +1,1 @@
+³R5node_modules/pkg-up/node_modules/locate-path/index.js 2jsXh

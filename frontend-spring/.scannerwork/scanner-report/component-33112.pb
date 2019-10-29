@@ -1,0 +1,1 @@
+؂Gnode_modules/regenerate-unicode-properties/Script_Extensions/Deseret.js 2jsXh

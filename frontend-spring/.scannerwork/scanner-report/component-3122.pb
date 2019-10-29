@@ -1,0 +1,1 @@
+²)node_modules/eslint/lib/rules/eol-last.js 2jsXqh

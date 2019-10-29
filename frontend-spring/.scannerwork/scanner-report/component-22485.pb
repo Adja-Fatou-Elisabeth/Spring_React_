@@ -1,0 +1,1 @@
+կ_node_modules/postcss-custom-selectors/node_modules/postcss-selector-parser/dist/util/getProp.js 2jsXh

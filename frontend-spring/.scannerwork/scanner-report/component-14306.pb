@@ -1,0 +1,1 @@
+âo+node_modules/resolve/test/resolver/dot_main :áo

@@ -1,0 +1,1 @@
+±&7node_modules/@jest/reporters/build/get_result_header.js 2jsXJh

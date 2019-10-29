@@ -1,0 +1,1 @@
+ЃLnode_modules/regenerate-unicode-properties/Binary_Property/Case_Ignorable.js 2jsXh

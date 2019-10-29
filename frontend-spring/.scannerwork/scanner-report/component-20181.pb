@@ -1,0 +1,1 @@
+՝-node_modules/jest-runtime/bin/jest-runtime.js 2jsXh

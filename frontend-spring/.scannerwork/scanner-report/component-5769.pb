@@ -1,0 +1,1 @@
+‰-$node_modules/svgo/lib/svgo/svg2js.js 2jsXÉh

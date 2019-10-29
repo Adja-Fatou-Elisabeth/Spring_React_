@@ -1,0 +1,1 @@
+½Knode_modules/eslint/lib/rules/utils/unicode/is-regional-indicator-symbol.js 2jsXh

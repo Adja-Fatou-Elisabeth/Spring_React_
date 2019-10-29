@@ -1,0 +1,1 @@
+˜-node_modules/eslint/lib/linter/interpolate.js 2jsXh

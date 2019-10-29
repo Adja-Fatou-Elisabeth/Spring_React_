@@ -1,0 +1,1 @@
+’ºTnode_modules/@typescript-eslint/eslint-plugin/dist/rules/prefer-namespace-keyword.js 2jsX5h

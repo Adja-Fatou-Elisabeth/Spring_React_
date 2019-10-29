@@ -1,0 +1,1 @@
+»/node_modules/eslint/lib/rules/global-require.js 2jsXRh

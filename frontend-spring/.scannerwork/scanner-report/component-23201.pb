@@ -1,0 +1,1 @@
+¡µ-node_modules/jest-config/build/ValidConfig.js 2jsX±h

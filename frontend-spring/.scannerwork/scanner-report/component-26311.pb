@@ -1,0 +1,1 @@
+ÇÍ4node_modules/jest-environment-jsdom/build/index.d.ts 2tsX!h

@@ -1,0 +1,1 @@
+΄Knode_modules/regenerate-unicode-properties/Script/Inscriptional_Parthian.js 2jsXh

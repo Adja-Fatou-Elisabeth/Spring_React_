@@ -1,0 +1,1 @@
+å>node_modules/browser-resolve/node_modules/resolve/test/core.js 2jsXh

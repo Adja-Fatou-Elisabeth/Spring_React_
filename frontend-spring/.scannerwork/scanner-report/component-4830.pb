@@ -1,0 +1,1 @@
+Þ%"node_modules/@jest/transform/build :Ý%ã%ä%æ%ç%è%ê%ì%í%ñ%

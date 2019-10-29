@@ -1,0 +1,1 @@
+Ò3node_modules/eslint/lib/rules/no-trailing-spaces.js 2jsX¯h

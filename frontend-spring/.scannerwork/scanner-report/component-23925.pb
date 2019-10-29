@@ -1,0 +1,1 @@
+õºQnode_modules/@typescript-eslint/eslint-plugin/dist/rules/interface-name-prefix.js 2jsXˆh

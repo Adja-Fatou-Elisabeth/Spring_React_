@@ -1,0 +1,1 @@
+J6node_modules/eslint-plugin-import/lib/rules/default.js 2jsX3h

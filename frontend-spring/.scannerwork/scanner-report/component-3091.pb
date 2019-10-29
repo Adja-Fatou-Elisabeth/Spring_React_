@@ -1,0 +1,1 @@
+“7node_modules/eslint/lib/rules/function-paren-newline.js 2jsXšh

@@ -1,0 +1,1 @@
+à;node_modules/eslint/lib/rules/no-shadow-restricted-names.js 2jsX=h

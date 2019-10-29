@@ -1,0 +1,1 @@
+÷7node_modules/eslint/lib/rules/max-lines-per-function.js 2jsXÚh

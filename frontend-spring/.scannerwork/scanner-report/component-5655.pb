@@ -1,0 +1,1 @@
+—,Hnode_modules/@svgr/babel-plugin-replace-jsx-attribute-value/lib/index.js 2jsX4h

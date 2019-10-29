@@ -1,0 +1,1 @@
+ò,7node_modules/svgo/plugins/removeUselessStrokeAndFill.js 2jsXeh

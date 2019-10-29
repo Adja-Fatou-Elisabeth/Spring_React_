@@ -1,0 +1,1 @@
+™ø%node_modules/regex-parser/lib/typings :˜ø

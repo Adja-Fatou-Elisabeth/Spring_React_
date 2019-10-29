@@ -1,0 +1,1 @@
+„ø0node_modules/cross-spawn/lib/util/readShebang.js 2jsX!h

@@ -1,0 +1,1 @@
+ø,0node_modules/svgo/plugins/removeEditorsNSData.js 2jsXBh

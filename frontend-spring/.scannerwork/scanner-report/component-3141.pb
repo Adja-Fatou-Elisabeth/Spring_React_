@@ -1,0 +1,1 @@
+Å2node_modules/eslint/lib/init/config-initializer.js 2jsX£h

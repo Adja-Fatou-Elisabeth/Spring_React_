@@ -1,0 +1,1 @@
+ÚýDnode_modules/jsdom/lib/jsdom/living/generated/HTMLTableColElement.js 2jsXŠh

@@ -1,0 +1,1 @@
+¶¿Gnode_modules/@babel/preset-typescript/test/fixtures/jsx-compat/js-valid :µ¿·¿

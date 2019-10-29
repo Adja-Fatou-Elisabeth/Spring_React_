@@ -1,0 +1,1 @@
+´Wnode_modules/browser-resolve/node_modules/resolve/test/module_dir/xmodules/aaa/index.js 2jsXh

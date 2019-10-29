@@ -1,0 +1,1 @@
+ÏUKnode_modules/eslint-plugin-react/lib/rules/void-dom-elements-no-children.js 2jsXöh

@@ -1,0 +1,1 @@
+¯4node_modules/jest-worker/node_modules/supports-color :±³

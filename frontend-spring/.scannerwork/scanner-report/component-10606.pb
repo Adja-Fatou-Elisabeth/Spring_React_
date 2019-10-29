@@ -1,0 +1,1 @@
+ÓR+node_modules/jest/node_modules/jest-cli/bin :ÍR

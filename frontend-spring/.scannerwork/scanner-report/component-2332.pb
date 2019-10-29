@@ -1,0 +1,1 @@
+œJnode_modules/browser-resolve/node_modules/resolve/test/dotdot/abc/index.js 2jsXh

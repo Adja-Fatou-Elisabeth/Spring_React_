@@ -1,0 +1,1 @@
+¯nnode_modules/type/test/reg-exp :®n¬n

@@ -1,0 +1,1 @@
+็บOnode_modules/@typescript-eslint/eslint-plugin/dist/rules/no-extraneous-class.js 2jsXkh

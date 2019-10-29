@@ -1,0 +1,1 @@
+Ÿ)node_modules/eslint/lib/rules/no-proto.js 2jsX*h

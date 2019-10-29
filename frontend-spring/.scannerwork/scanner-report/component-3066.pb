@@ -1,0 +1,1 @@
+ú5node_modules/eslint/lib/rules/switch-colon-spacing.js 2jsXŽh

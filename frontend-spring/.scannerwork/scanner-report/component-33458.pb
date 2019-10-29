@@ -1,0 +1,1 @@
+²…Enode_modules/regenerate-unicode-properties/General_Category/Format.js 2jsXh

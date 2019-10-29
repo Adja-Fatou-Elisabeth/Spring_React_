@@ -1,0 +1,1 @@
+œºCnode_modules/@typescript-eslint/eslint-plugin/dist/rules/typedef.js 2jsX–h

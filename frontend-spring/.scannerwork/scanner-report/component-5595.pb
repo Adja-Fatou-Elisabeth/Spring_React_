@@ -1,0 +1,1 @@
+Û+Dnode_modules/@svgr/babel-plugin-transform-svg-component/lib/index.js 2jsX3h

@@ -1,0 +1,1 @@
+àƒEnode_modules/regenerate-unicode-properties/Binary_Property/Radical.js 2jsXh

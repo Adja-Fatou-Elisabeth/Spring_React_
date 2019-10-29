@@ -1,0 +1,1 @@
+×1node_modules/eslint/lib/rules/no-await-in-loop.js 2jsXkh

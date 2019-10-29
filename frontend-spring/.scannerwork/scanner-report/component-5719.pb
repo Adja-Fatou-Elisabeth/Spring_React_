@@ -1,0 +1,1 @@
+×,.node_modules/svgo/plugins/removeUselessDefs.js 2jsX6h

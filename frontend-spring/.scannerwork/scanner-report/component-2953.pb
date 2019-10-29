@@ -1,0 +1,1 @@
+‰5node_modules/eslint/lib/rules/prefer-object-spread.js 2jsXŠh

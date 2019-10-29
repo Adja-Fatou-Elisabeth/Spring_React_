@@ -1,0 +1,1 @@
+Å.node_modules/eslint/lib/rules/block-spacing.js 2jsXîh

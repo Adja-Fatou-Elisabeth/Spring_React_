@@ -1,0 +1,1 @@
+¨@.node_modules/svg-parser/dist/svg-parser.umd.js 2jsX£h

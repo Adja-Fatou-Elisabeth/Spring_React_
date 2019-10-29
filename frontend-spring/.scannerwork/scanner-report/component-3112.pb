@@ -1,0 +1,1 @@
+¨2node_modules/eslint/lib/rules/multiline-ternary.js 2jsX`h

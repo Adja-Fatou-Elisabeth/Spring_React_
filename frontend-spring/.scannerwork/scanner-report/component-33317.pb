@@ -1,0 +1,1 @@
+¥„Bnode_modules/regenerate-unicode-properties/Script/Mende_Kikakui.js 2jsXh

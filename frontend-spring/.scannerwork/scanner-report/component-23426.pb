@@ -1,0 +1,1 @@
+‚·Fnode_modules/react-scripts/node_modules/resolve/test/faulty_basedir.js 2jsXh

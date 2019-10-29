@@ -1,0 +1,1 @@
+°ƒKnode_modules/regenerate-unicode-properties/Script_Extensions/Old_Sogdian.js 2jsXh

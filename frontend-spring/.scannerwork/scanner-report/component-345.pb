@@ -1,0 +1,1 @@
+Ùnode_modules/text-table/test :ØÚÛÝÜÖ

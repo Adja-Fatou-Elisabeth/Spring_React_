@@ -1,0 +1,1 @@
+เภ:node_modules/@babel/runtime/helpers/esm/wrapNativeSuper.js 2jsX%h

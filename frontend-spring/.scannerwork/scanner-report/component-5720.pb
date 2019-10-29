@@ -1,0 +1,1 @@
+Ø,'node_modules/svgo/plugins/cleanupIDs.js 2jsXÍh

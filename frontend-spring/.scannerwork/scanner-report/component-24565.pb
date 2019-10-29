@@ -1,0 +1,1 @@
+õ¿=node_modules/@babel/plugin-transform-shorthand-properties/lib :ô¿

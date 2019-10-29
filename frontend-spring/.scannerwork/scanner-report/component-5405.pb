@@ -1,0 +1,1 @@
+ù*7node_modules/snapdragon-node/node_modules/is-descriptor :ü*

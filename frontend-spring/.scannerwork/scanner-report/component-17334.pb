@@ -1,0 +1,1 @@
+¶‡+node_modules/core-js/internals/is-regexp.js 2jsXh

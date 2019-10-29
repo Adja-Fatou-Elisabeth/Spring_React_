@@ -1,0 +1,1 @@
+เปWnode_modules/@typescript-eslint/experimental-utils/dist/ts-eslint-scope/Referencer.d.ts 2tsX7h

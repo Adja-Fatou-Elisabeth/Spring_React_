@@ -1,0 +1,1 @@
+f)node_modules/uri-js/src/schemes/mailto.ts 2tsX¶h

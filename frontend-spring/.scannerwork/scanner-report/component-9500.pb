@@ -1,0 +1,1 @@
+œJ4node_modules/eslint-plugin-import/config/electron.js 2jsX	h

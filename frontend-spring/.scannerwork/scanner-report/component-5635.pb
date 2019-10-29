@@ -1,0 +1,1 @@
+ƒ,>node_modules/@svgr/babel-plugin-transform-react-native-svg/lib :õ+

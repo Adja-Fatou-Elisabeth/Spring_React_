@@ -1,0 +1,1 @@
+½g)node_modules/http-signature/lib/verify.js 2jsXYh

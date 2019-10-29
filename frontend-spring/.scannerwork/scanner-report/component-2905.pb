@@ -1,0 +1,1 @@
+Ù-node_modules/eslint/lib/rules/no-div-regex.js 2jsX6h

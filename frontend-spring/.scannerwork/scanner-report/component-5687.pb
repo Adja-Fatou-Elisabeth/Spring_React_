@@ -1,0 +1,1 @@
+·,>node_modules/@svgr/babel-plugin-svg-em-dimensions/lib/index.js 2jsX$h

@@ -1,0 +1,1 @@
+¿ºInode_modules/@typescript-eslint/eslint-plugin/dist/rules/member-naming.js 2jsXih

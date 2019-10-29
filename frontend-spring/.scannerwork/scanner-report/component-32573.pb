@@ -1,0 +1,1 @@
+½þAnode_modules/jsdom/lib/jsdom/living/navigator/NavigatorID-impl.js 2jsX&h

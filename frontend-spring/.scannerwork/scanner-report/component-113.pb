@@ -1,0 +1,1 @@
+q/node_modules/uri-js/dist/esnext/schemes/http.js 2jsXh

@@ -1,0 +1,1 @@
+ê.node_modules/eslint/lib/rules/no-new-symbol.js 2jsX/h

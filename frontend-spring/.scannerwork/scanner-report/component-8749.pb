@@ -1,0 +1,1 @@
+­DOnode_modules/fork-ts-checker-webpack-plugin/lib/formatter/defaultFormatter.d.ts 2tsXh

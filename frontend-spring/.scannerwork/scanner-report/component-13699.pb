@@ -1,0 +1,1 @@
+ƒkqnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/WindowEventHandlers.js 2jsXŠh

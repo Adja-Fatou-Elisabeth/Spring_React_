@@ -1,0 +1,1 @@
+ÆQnode_modules/browser-resolve/node_modules/resolve/test/resolver/quux/foo/index.js 2jsXh

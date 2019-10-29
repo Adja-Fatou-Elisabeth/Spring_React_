@@ -1,0 +1,1 @@
+ú1node_modules/eslint/lib/rules/object-shorthand.js 2jsXóh

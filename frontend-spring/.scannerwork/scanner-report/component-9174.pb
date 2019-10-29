@@ -1,0 +1,1 @@
+ÖGfnode_modules/optimize-css-assets-webpack-plugin/test/cases/assetNameRegExp-no-source/webpack.config.js 2jsXh

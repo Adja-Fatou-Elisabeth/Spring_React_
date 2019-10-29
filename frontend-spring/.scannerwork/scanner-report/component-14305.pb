@@ -1,0 +1,1 @@
+áo4node_modules/resolve/test/resolver/dot_main/index.js 2jsXh

@@ -1,0 +1,1 @@
+Ÿ2node_modules/table/dist/calculateCellWidthIndex.js 2jsXh

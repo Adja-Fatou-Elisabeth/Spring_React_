@@ -1,0 +1,1 @@
+íƒUnode_modules/regenerate-unicode-properties/Binary_Property/Logical_Order_Exception.js 2jsXh

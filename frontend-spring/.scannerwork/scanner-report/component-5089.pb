@@ -1,0 +1,1 @@
+á':node_modules/@jest/core/build/SnapshotInteractiveMode.d.ts 2tsXh

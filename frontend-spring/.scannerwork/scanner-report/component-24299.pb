@@ -1,0 +1,1 @@
+ë½9node_modules/axobject-query/lib/etc/objects/CanvasRole.js 2jsXh

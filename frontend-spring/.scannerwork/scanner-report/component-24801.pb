@@ -1,0 +1,1 @@
+·¡nnode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/with-unicode-flag/unicode-12/input.js 2jsXh

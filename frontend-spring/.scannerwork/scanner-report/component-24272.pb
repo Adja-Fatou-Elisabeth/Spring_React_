@@ -1,0 +1,1 @@
+н;node_modules/axobject-query/lib/etc/objects/ImageMapRole.js 2jsXh

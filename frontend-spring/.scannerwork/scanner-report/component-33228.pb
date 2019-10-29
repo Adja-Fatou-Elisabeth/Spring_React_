@@ -1,0 +1,1 @@
+̃Mnode_modules/regenerate-unicode-properties/Binary_Property/Emoji_Component.js 2jsXh

@@ -1,0 +1,1 @@
+ä+!node_modules/@svgr/plugin-jsx/lib :á+

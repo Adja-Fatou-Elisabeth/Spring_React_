@@ -1,0 +1,1 @@
+ù<node_modules/eslint-plugin-jsx-a11y/__mocks__/JSXTextMock.js 2jsXh

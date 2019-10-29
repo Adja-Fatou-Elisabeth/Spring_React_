@@ -1,0 +1,1 @@
+‘ƒKnode_modules/regenerate-unicode-properties/Script_Extensions/SignWriting.js 2jsXh

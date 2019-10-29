@@ -1,0 +1,1 @@
+“6node_modules/eslint/lib/rules/array-bracket-newline.js 2jsX†h

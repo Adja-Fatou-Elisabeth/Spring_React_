@@ -1,0 +1,1 @@
+¨D9node_modules/fork-ts-checker-webpack-plugin/lib/formatter :§DªD«D­D

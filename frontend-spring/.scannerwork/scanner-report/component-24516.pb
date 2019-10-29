@@ -1,0 +1,1 @@
+ĿInode_modules/@babel/preset-typescript/test/fixtures/flow-compat/tsx-valid :ÿſ

@@ -1,0 +1,1 @@
+Ù.node_modules/eslint/lib/rules/no-new-object.js 2jsX'h

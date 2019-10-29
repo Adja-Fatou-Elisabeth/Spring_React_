@@ -1,0 +1,1 @@
+ä,-node_modules/svgo/plugins/removeEmptyAttrs.js 2jsXh

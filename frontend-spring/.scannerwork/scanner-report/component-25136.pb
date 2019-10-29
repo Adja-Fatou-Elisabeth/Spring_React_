@@ -1,0 +1,1 @@
+°Ä6node_modules/@babel/plugin-transform-unicode-regex/lib :®Ä

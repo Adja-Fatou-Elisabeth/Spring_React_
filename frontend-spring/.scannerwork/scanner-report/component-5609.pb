@@ -1,0 +1,1 @@
+é+Anode_modules/@svgr/babel-plugin-remove-jsx-attribute/lib/index.js 2jsXh

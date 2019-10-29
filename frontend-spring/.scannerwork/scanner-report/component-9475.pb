@@ -1,0 +1,1 @@
+ÉJGnode_modules/eslint-plugin-import/lib/rules/no-useless-path-segments.js 2jsXóh

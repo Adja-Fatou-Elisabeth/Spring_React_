@@ -1,0 +1,1 @@
+žµ3node_modules/jest-config/build/validatePattern.d.ts 2tsXh

@@ -1,0 +1,1 @@
+Â+node_modules/eslint/lib/init/config-rule.js 2jsXÂh

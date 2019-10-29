@@ -1,0 +1,1 @@
+Ô(node_modules/text-table/example/align.js 2jsX	h

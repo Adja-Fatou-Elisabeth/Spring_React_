@@ -1,0 +1,1 @@
+Ʉ<node_modules/regenerate-unicode-properties/Script/Hanunoo.js 2jsXh

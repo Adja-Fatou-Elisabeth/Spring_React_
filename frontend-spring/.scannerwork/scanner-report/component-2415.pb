@@ -1,0 +1,1 @@
+ïDnode_modules/browser-resolve/node_modules/resolve/test/module_dir.js 2jsX9h

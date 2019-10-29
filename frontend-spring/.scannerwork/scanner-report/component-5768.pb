@@ -1,0 +1,1 @@
+à-node_modules/svgo/lib/svgo :á-â-ä-ã-ç-å-é-è-ê-ë-

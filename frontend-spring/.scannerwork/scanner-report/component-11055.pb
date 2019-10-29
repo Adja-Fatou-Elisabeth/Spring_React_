@@ -1,0 +1,1 @@
+¯V8node_modules/caniuse-lite/data/features/css-variables.js 2jsXh

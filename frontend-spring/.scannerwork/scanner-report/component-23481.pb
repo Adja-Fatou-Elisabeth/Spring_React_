@@ -1,0 +1,1 @@
+นท6node_modules/react-scripts/config/jest/cssTransform.js 2jsXh

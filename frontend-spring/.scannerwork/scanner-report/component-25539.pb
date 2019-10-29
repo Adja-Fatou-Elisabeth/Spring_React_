@@ -1,0 +1,1 @@
+รว=node_modules/aria-query/lib/etc/roles/dpub/docFootnoteRole.js 2jsXh

@@ -1,0 +1,1 @@
+ætQnode_modules/babel-runtime/node_modules/core-js/modules/es6.array.reduce-right.js 2jsXh

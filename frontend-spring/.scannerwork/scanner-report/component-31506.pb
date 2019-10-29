@@ -1,0 +1,1 @@
+’öGnode_modules/babel-preset-react-app/node_modules/@babel/preset-env/data :ö•ö–ö—ö˜ö

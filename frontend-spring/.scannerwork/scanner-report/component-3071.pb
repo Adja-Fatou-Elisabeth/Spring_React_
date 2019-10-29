@@ -1,0 +1,1 @@
+ÿ/node_modules/eslint/lib/rules/no-spaced-func.js 2jsXPh

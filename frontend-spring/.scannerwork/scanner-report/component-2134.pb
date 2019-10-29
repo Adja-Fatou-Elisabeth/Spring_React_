@@ -1,0 +1,1 @@
+ÖCnode_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles/aside.js 2jsXh

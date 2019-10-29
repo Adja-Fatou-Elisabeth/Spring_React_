@@ -1,0 +1,1 @@
+Ð,"node_modules/svgo/plugins/_path.js 2jsXÝh

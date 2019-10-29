@@ -1,0 +1,1 @@
+&(node_modules/is-data-descriptor/index.js 2jsX8h

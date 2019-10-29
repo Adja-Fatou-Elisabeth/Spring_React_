@@ -1,0 +1,1 @@
+½o:node_modules/resolve/test/resolver/incorrect_main/index.js 2jsXh

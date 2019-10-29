@@ -1,0 +1,1 @@
+ŽMnode_modules/eslint-plugin-jsx-a11y/__tests__/src/rules/html-has-lang-test.js 2jsX)h

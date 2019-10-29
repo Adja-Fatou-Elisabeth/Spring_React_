@@ -1,0 +1,1 @@
+³·<node_modules/react-scripts/scripts/utils/createJestConfig.js 2jsX”h

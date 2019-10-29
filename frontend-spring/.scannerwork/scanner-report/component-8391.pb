@@ -1,0 +1,1 @@
+ÇA$node_modules/type-check/lib/check.js 2jsXh

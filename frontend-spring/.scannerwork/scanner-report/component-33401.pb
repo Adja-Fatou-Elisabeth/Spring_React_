@@ -1,0 +1,1 @@
+ù„=node_modules/regenerate-unicode-properties/Script/Georgian.js 2jsXh

@@ -1,0 +1,1 @@
+ëƒUnode_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Lowercased.js 2jsXh

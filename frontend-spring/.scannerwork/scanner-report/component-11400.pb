@@ -1,0 +1,1 @@
+ˆY4node_modules/caniuse-lite/data/features/vibration.js 2jsXh

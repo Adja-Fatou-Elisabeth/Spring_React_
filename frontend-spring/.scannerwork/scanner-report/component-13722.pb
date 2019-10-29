@@ -1,0 +1,1 @@
+škqnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/HTMLTableColElement.js 2jsXãh

@@ -1,0 +1,1 @@
+ülenode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/window/navigation.js 2jsX^h

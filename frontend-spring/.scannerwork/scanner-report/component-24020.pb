@@ -1,0 +1,1 @@
+ԻYnode_modules/@typescript-eslint/experimental-utils/dist/ts-eslint-scope/ScopeManager.d.ts 2tsX/h

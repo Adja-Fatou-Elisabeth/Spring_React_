@@ -1,0 +1,1 @@
+¨ölnode_modules/babel-preset-react-app/node_modules/@babel/preset-env/lib/polyfills/regenerator/entry-plugin.js 2jsX0h

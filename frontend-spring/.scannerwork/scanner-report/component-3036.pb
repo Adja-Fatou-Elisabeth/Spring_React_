@@ -1,0 +1,1 @@
+Ü0node_modules/eslint/lib/rules/prefer-template.js 2jsX™h

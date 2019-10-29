@@ -1,0 +1,1 @@
+–©node_modules/is-regex/test.js 2jsX;h

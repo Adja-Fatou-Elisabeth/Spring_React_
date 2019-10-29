@@ -1,0 +1,1 @@
+ý,(node_modules/svgo/plugins/removeAttrs.js 2jsX—h

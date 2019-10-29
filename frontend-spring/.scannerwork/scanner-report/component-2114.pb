@@ -1,0 +1,1 @@
+Â:node_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles :LÁÃÄÅÆÇÈÉÊËÍÌÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæè€

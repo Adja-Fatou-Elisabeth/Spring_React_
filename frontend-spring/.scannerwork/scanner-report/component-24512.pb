@@ -1,0 +1,1 @@
+À¿Rnode_modules/@babel/preset-typescript/test/fixtures/flow-compat/js-valid/output.js 2jsXh

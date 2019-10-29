@@ -1,0 +1,1 @@
+š9node_modules/eslint/lib/rules/no-restricted-properties.js 2jsX±h

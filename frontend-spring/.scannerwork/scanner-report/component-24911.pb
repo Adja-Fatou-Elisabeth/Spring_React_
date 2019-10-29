@@ -1,0 +1,1 @@
+об4node_modules/@babel/plugin-transform-modules-umd/lib :нб

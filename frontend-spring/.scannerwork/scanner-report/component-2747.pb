@@ -1,0 +1,1 @@
+».node_modules/eslint/conf/eslint-recommended.js 2jsXGh

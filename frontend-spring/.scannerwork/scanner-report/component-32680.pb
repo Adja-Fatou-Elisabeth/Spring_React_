@@ -1,0 +1,1 @@
+¨ÿ>node_modules/jsdom/lib/jsdom/living/named-properties-window.js 2jsXŽh

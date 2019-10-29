@@ -1,0 +1,1 @@
+ят:node_modules/jest-haste-map/build/lib/FSEventsWatcher.d.ts 2tsX.h

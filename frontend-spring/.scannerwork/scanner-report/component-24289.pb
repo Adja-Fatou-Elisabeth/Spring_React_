@@ -1,0 +1,1 @@
+á½=node_modules/axobject-query/lib/etc/objects/StaticTextRole.js 2jsXh

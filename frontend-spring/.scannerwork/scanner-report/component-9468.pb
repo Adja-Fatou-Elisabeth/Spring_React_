@@ -1,0 +1,1 @@
+üI;node_modules/eslint-plugin-import/lib/rules/no-namespace.js 2jsX!h

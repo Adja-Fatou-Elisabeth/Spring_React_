@@ -1,0 +1,1 @@
+Ò,/node_modules/svgo/plugins/convertShapeToPath.js 2jsX–h

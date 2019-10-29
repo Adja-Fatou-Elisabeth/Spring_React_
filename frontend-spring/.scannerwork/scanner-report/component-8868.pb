@@ -1,0 +1,1 @@
+¤Enode_modules/safe-regex/example :¢E

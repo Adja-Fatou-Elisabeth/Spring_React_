@@ -10,7 +10,7 @@ class InstructorApp extends Component{
                     <h1> Liste des courses </h1>
                     <div>
                         <Route path="/" exact component={ListCoursesComponent}/>
-                        <Route path="/courses" exact component={ListCoursesComponent}/>
+                        <Route path="/courses" exact component={CourseComponent}/>
                         <Route path="/courses/:id" exact component={CourseComponent}/>
                     </div>
                 </>

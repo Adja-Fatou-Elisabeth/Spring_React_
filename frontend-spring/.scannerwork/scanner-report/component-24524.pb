@@ -1,0 +1,1 @@
+̿Unode_modules/@babel/preset-typescript/test/fixtures/flow-compat/tsx-invalid/input.tsx 2tsXh

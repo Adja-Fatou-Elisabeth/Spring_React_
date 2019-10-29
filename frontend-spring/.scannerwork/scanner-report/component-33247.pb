@@ -1,0 +1,1 @@
+߃Cnode_modules/regenerate-unicode-properties/Binary_Property/Cased.js 2jsXh

@@ -1,0 +1,1 @@
+•JAnode_modules/eslint-plugin-import/lib/rules/no-dynamic-require.js 2jsX&h

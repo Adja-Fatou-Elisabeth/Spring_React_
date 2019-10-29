@@ -1,0 +1,1 @@
+õ+node_modules/eslint/lib/rules/new-parens.js 2jsXdh

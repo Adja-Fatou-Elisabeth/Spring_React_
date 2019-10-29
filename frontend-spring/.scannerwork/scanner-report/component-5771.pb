@@ -1,0 +1,1 @@
+‹-$node_modules/svgo/lib/svgo/config.js 2jsXûh

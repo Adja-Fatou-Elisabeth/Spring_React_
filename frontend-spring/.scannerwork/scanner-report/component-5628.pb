@@ -1,0 +1,1 @@
+ü+,node_modules/@svgr/babel-preset/lib/index.js 2jsXxh

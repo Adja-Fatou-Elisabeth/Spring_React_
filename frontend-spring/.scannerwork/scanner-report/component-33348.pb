@@ -1,0 +1,1 @@
+Ą:node_modules/regenerate-unicode-properties/Script/Batak.js 2jsXh

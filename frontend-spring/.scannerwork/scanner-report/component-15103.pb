@@ -1,0 +1,1 @@
+ÿuOnode_modules/babel-runtime/node_modules/core-js/modules/es6.string.fontcolor.js 2jsXh

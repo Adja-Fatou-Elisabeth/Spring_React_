@@ -1,0 +1,1 @@
+²?node_modules/eslint-plugin-jsx-a11y/scripts/boilerplate/test.js 2jsX#h

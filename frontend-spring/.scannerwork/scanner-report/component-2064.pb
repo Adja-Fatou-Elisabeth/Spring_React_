@@ -1,0 +1,1 @@
+êfnode_modules/eslint-plugin-jsx-a11y/__tests__/src/rules/no-noninteractive-element-interactions-test.js 2jsX“h

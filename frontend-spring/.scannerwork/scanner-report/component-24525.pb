@@ -1,0 +1,1 @@
+ͿKnode_modules/@babel/preset-typescript/test/fixtures/flow-compat/tsx-invalid :̿

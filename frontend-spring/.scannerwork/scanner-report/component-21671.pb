@@ -1,0 +1,1 @@
+§©<node_modules/define-property/node_modules/is-data-descriptor :©©

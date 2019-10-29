@@ -1,0 +1,1 @@
+í;node_modules/eslint/lib/cli-engine/formatters/checkstyle.js 2jsX=h

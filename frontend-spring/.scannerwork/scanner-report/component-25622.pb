@@ -1,0 +1,1 @@
+–È;node_modules/aria-query/lib/etc/roles/literal/bannerRole.js 2jsXh

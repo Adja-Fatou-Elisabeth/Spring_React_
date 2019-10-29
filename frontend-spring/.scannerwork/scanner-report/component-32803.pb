@@ -1,0 +1,1 @@
+£€8node_modules/jest-jasmine2/build/setup_jest_globals.d.ts 2tsXh

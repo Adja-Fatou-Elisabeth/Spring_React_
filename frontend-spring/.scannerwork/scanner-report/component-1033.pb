@@ -1,0 +1,1 @@
+‰!node_modules/detect-node/index.js 2jsXh

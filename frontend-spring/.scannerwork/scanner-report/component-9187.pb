@@ -1,0 +1,1 @@
+„GYnode_modules/optimize-css-assets-webpack-plugin/test/cases/only-assetNameRegExp-processed :‰GÂG

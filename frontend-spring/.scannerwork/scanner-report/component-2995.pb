@@ -1,0 +1,1 @@
+³8node_modules/eslint/lib/rules/object-property-newline.js 2jsX_h

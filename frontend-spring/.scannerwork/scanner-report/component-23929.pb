@@ -1,0 +1,1 @@
+ùºEnode_modules/@typescript-eslint/eslint-plugin/dist/rules/ban-types.js 2jsXrh

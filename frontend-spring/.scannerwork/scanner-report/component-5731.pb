@@ -1,0 +1,1 @@
+ã,/node_modules/svgo/plugins/removeStyleElement.js 2jsXh

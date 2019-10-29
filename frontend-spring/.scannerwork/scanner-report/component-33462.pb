@@ -1,0 +1,1 @@
+¶…Lnode_modules/regenerate-unicode-properties/General_Category/Letter_Number.js 2jsXh

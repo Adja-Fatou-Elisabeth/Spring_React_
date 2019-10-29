@@ -1,0 +1,1 @@
+ã5node_modules/eslint/lib/rules/max-classes-per-file.js 2jsXBh

@@ -1,0 +1,1 @@
+¼	6node_modules/memory-fs/node_modules/string_decoder/lib :µ	

@@ -1,0 +1,1 @@
+Ê?node_modules/browser-resolve/node_modules/resolve/test/resolver :Éà

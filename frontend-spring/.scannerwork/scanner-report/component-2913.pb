@@ -1,0 +1,1 @@
+á>node_modules/eslint/lib/rules/no-whitespace-before-property.js 2jsXbh

@@ -1,0 +1,1 @@
+àFnode_modules/browser-resolve/node_modules/resolve/test/resolver/foo.js 2jsXh

@@ -1,0 +1,1 @@
+ı…Wnode_modules/babel-plugin-transform-react-remove-prop-types/src/isStatelessComponent.js 2jsX`h

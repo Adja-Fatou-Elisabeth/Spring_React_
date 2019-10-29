@@ -1,0 +1,1 @@
+ֺEnode_modules/@typescript-eslint/eslint-plugin/dist/rules/camelcase.js 2jsXph

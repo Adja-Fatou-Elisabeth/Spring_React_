@@ -1,0 +1,1 @@
+£X5node_modules/caniuse-lite/data/features/indexeddb2.js 2jsXh

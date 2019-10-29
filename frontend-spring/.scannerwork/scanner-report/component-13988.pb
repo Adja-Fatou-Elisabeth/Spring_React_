@@ -1,0 +1,1 @@
+¤mqnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/helpers/create-event-accessor.js 2jsXÀh

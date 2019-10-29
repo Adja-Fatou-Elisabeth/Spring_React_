@@ -1,0 +1,1 @@
+„»Inode_modules/@typescript-eslint/eslint-plugin/dist/rules/ban-ts-ignore.js 2jsX/h

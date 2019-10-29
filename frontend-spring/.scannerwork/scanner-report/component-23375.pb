@@ -1,0 +1,1 @@
+϶Lnode_modules/react-scripts/node_modules/resolve/test/resolver/incorrect_main :Ͷ

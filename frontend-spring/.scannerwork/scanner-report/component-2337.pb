@@ -1,0 +1,1 @@
+¡Anode_modules/browser-resolve/node_modules/resolve/test/precedence :Ÿ¥

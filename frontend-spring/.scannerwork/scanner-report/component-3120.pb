@@ -1,0 +1,1 @@
+°,node_modules/eslint/lib/rules/brace-style.js 2jsX½h

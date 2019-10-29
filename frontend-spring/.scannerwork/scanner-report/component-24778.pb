@@ -1,0 +1,1 @@
+สมxnode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/without-unicode-flag/script-extensions/input.js 2jsXh

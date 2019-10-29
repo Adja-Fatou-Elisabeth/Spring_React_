@@ -1,0 +1,1 @@
+å-node_modules/eslint/lib/cli-engine/formatters :äçèëíîðñòóôõ÷

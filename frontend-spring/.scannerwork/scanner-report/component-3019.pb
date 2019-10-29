@@ -1,0 +1,1 @@
+Ë<node_modules/eslint/lib/rules/no-template-curly-in-string.js 2jsX)h

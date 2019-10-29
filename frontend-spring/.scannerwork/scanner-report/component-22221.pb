@@ -1,0 +1,1 @@
+ͭFnode_modules/@webassemblyjs/ast/esm/transform/wast-identifier-to-index :ɭ

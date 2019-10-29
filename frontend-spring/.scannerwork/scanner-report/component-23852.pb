@@ -1,0 +1,1 @@
+¬ºMnode_modules/@typescript-eslint/eslint-plugin/dist/rules/class-name-casing.js 2jsXkh

@@ -1,0 +1,1 @@
+Ánode_modules/pirates/index.d.ts 2tsXh

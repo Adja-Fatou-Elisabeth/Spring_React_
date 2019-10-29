@@ -1,0 +1,1 @@
+ô¿Fnode_modules/@babel/plugin-transform-shorthand-properties/lib/index.js 2jsX:h

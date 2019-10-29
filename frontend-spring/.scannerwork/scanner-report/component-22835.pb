@@ -1,0 +1,1 @@
+³²/node_modules/jest-watcher/build/lib/colorize.js 2jsX"h

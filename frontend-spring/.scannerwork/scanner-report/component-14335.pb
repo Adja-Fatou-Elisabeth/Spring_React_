@@ -1,0 +1,1 @@
+ÿo node_modules/resolve/lib/sync.js 2jsX­h

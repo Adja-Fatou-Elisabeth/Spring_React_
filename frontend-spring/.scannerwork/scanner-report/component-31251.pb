@@ -1,0 +1,1 @@
+“ônode_modules/emojis-list :–ô

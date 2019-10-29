@@ -1,0 +1,1 @@
+Ú,;node_modules/svgo/plugins/removeNonInheritableGroupAttrs.js 2jsX&h

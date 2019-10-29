@@ -1,0 +1,1 @@
+ÔGTnode_modules/optimize-css-assets-webpack-plugin/test/cases/assetNameRegExp-no-source :ÖG×G

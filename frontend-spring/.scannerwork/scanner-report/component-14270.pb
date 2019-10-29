@@ -1,0 +1,1 @@
+¾o1node_modules/resolve/test/resolver/incorrect_main :½o

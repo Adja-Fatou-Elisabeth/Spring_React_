@@ -1,0 +1,1 @@
+ºö^node_modules/babel-preset-react-app/node_modules/@babel/plugin-proposal-object-rest-spread/lib :¹ö

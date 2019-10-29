@@ -1,0 +1,1 @@
+Ënode_modules/gzip-size/index.js 2jsX9h

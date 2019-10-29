@@ -1,0 +1,1 @@
+ €6node_modules/jest-jasmine2/build/setup_jest_globals.js 2jsXvh

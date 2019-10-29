@@ -1,0 +1,1 @@
+ÂI:node_modules/eslint-plugin-import/node_modules/read-pkg-up :ÁI

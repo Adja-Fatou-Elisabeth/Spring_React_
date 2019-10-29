@@ -1,0 +1,1 @@
+Å*node_modules/jest-runner/build :É*Ñ*Ö*Ü*á*à*â*ä*

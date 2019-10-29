@@ -1,0 +1,1 @@
+¡X;node_modules/caniuse-lite/data/features/web-app-manifest.js 2jsXh

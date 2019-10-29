@@ -1,0 +1,1 @@
+-!node_modules/svgo/lib/svgo/coa.js 2jsXÄh

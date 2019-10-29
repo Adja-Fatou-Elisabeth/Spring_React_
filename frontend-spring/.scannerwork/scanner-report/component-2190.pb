@@ -1,0 +1,1 @@
+ŽWnode_modules/eslint-plugin-jsx-a11y/lib/rules/no-noninteractive-element-interactions.js 2jsXah

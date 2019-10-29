@@ -1,0 +1,1 @@
+ª´&node_modules/vm-browserify/example/run :	«´¬´©´

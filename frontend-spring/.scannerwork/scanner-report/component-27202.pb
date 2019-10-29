@@ -1,0 +1,1 @@
+ÂÔ*node_modules/jest-haste-map/build/crawlers :ÁÔÃÔÆÔÈÔ

@@ -1,0 +1,1 @@
+þƒUnode_modules/regenerate-unicode-properties/Binary_Property/Noncharacter_Code_Point.js 2jsXh

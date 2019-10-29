@@ -1,0 +1,1 @@
+¥<node_modules/eslint/lib/rules/space-before-function-paren.js 2jsXh

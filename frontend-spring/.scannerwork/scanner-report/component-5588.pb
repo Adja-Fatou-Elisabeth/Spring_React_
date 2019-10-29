@@ -1,0 +1,1 @@
+Ô+?node_modules/@svgr/babel-plugin-remove-jsx-empty-expression/lib :Ó+

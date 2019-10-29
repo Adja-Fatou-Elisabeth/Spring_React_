@@ -1,0 +1,1 @@
+½¿Rnode_modules/@babel/preset-typescript/test/fixtures/jsx-compat/ts-invalid/input.ts 2tsXh

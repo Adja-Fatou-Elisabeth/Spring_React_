@@ -1,0 +1,1 @@
+»@3node_modules/jest-resolve/build/nodeModulesPaths.js 2jsX]h

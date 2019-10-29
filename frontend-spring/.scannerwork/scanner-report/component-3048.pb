@@ -1,0 +1,1 @@
+è,node_modules/eslint/lib/rules/unicode-bom.js 2jsXJh

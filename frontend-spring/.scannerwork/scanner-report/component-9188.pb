@@ -1,0 +1,1 @@
+‰Gknode_modules/optimize-css-assets-webpack-plugin/test/cases/only-assetNameRegExp-processed/webpack.config.js 2jsX'h

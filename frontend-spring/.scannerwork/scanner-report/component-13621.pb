@@ -1,0 +1,1 @@
+µjnnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/NavigatorPlugins.js 2jsXyh

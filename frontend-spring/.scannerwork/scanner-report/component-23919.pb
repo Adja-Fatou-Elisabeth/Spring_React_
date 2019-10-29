@@ -1,0 +1,1 @@
+ïºNnode_modules/@typescript-eslint/eslint-plugin/dist/rules/no-empty-interface.js 2jsXFh

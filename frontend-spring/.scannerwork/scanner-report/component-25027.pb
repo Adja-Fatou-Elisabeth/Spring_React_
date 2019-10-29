@@ -1,0 +1,1 @@
+รร8node_modules/@babel/plugin-proposal-class-properties/lib :ยร

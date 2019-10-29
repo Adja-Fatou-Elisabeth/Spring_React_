@@ -1,0 +1,1 @@
+Ç%node_modules/eslint/lib/rules/semi.js 2jsXÉh

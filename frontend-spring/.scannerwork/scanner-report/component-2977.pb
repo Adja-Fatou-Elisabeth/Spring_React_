@@ -1,0 +1,1 @@
+¡&node_modules/eslint/lib/rules/index.js 2jsXžh

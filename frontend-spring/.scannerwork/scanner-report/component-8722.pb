@@ -1,0 +1,1 @@
+’D<node_modules/fork-ts-checker-webpack-plugin/lib/service.d.ts 2tsXh

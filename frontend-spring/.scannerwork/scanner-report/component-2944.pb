@@ -1,0 +1,1 @@
+€+node_modules/eslint/lib/rules/func-style.js 2jsXch

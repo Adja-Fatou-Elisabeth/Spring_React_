@@ -1,0 +1,1 @@
+¢;node_modules/table/dist/calculateMaximumColumnWidthIndex.js 2jsX%h

@@ -1,0 +1,1 @@
+—*1node_modules/snapdragon-node/node_modules/kind-of :š*

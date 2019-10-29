@@ -1,0 +1,1 @@
+úI5node_modules/eslint-plugin-import/lib/rules/no-amd.js 2jsX-h

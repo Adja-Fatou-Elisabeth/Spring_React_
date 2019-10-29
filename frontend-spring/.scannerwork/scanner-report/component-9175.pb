@@ -1,0 +1,1 @@
+×G]node_modules/optimize-css-assets-webpack-plugin/test/cases/assetNameRegExp-no-source/index.js 2jsXh

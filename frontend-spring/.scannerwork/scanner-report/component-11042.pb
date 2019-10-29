@@ -1,0 +1,1 @@
+¢V;node_modules/caniuse-lite/data/features/css-revert-value.js 2jsXh

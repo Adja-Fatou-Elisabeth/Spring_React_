@@ -1,0 +1,1 @@
+ªÆgnode_modules/@babel/plugin-transform-dotall-regex/test/fixtures/dotall-regex/with-unicode-flag/input.js 2jsXh

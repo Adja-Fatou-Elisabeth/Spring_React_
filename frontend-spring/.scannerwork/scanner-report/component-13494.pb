@@ -1,0 +1,1 @@
+¶iOnode_modules/jest-environment-jsdom-fourteen/node_modules/acorn/dist/acorn.d.ts 2tsXÒh

@@ -1,0 +1,1 @@
+Ø5node_modules/eslint/lib/rules/no-array-constructor.js 2jsX7h

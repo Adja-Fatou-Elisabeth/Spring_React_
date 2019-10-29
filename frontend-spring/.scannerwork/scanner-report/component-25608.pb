@@ -1,0 +1,1 @@
+ˆÈ;node_modules/aria-query/lib/etc/roles/literal/figureRole.js 2jsXh

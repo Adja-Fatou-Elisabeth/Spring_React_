@@ -1,0 +1,1 @@
+Œ…?node_modules/regenerate-unicode-properties/Script/Old_Italic.js 2jsXh

@@ -1,0 +1,1 @@
+чаlnode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/with-unicode-flag/script-extensions :эаща

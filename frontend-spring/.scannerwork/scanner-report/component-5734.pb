@@ -1,0 +1,1 @@
+æ,)node_modules/svgo/plugins/_collections.js 2jsXÿh

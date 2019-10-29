@@ -1,0 +1,1 @@
+˜#node_modules/emoji-regex/index.d.ts 2tsXh

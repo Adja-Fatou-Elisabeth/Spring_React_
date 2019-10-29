@@ -1,0 +1,1 @@
+Á€;node_modules/jest-jasmine2/build/jasmine/JsApiReporter.d.ts 2tsX h

@@ -1,0 +1,1 @@
+ê+8node_modules/@svgr/babel-plugin-remove-jsx-attribute/lib :é+

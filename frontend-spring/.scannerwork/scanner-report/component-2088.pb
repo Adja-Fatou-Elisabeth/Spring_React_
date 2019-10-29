@@ -1,0 +1,1 @@
+¨Anode_modules/eslint-plugin-jsx-a11y/__mocks__/JSXAttributeMock.js 2jsXh

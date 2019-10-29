@@ -1,0 +1,1 @@
+Ü#node_modules/mdn-data/l10n/index.js 2jsXh

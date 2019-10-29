@@ -1,0 +1,1 @@
+‘Bnode_modules/browser-resolve/node_modules/resolve/example/async.js 2jsXh

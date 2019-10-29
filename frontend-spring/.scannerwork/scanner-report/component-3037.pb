@@ -1,0 +1,1 @@
+Ý7node_modules/eslint/lib/rules/require-unicode-regexp.js 2jsXFh

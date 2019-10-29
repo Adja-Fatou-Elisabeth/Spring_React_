@@ -1,0 +1,1 @@
+Ö,7node_modules/svgo/plugins/removeAttributesBySelector.js 2jsXGh

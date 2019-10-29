@@ -1,0 +1,1 @@
+нсnode_modules/is-resolvable :ос

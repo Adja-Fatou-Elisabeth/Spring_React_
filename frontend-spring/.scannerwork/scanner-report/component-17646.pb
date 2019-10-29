@@ -1,0 +1,1 @@
+î‰/node_modules/core-js/stable/object/is-frozen.js 2jsXh

@@ -1,0 +1,1 @@
+ê-%node_modules/svgo/lib/svgo/plugins.js 2jsXfh

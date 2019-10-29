@@ -1,0 +1,1 @@
+á+*node_modules/@svgr/plugin-jsx/lib/index.js 2jsX)h

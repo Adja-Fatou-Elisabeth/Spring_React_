@@ -1,0 +1,1 @@
+ÔCnode_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles/thead.js 2jsXh

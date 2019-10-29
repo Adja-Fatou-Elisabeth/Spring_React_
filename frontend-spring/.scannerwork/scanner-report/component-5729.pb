@@ -1,0 +1,1 @@
+á,*node_modules/svgo/plugins/removeDoctype.js 2jsX)h

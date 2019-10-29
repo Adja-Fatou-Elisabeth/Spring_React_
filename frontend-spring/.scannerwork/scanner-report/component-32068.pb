@@ -1,0 +1,1 @@
+Äú7node_modules/static-extend/node_modules/define-property :Åú

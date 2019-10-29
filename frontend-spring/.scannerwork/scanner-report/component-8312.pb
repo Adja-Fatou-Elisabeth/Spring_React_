@@ -1,0 +1,1 @@
+ø@#node_modules/shebang-regex/index.js 2jsXh

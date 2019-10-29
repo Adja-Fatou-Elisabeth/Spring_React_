@@ -1,0 +1,1 @@
+‡W7node_modules/caniuse-lite/data/features/magnetometer.js 2jsXh

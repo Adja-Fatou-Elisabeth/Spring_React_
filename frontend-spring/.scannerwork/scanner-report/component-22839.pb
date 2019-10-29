@@ -1,0 +1,1 @@
+·²2node_modules/jest-watcher/build/BaseWatchPlugin.js 2jsX5h

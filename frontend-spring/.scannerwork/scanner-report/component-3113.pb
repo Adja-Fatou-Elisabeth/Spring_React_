@@ -1,0 +1,1 @@
+©-node_modules/eslint/lib/rules/no-sequences.js 2jsXth

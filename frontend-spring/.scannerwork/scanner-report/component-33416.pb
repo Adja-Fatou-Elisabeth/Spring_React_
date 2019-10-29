@@ -1,0 +1,1 @@
+ˆ…?node_modules/regenerate-unicode-properties/Script/Old_Turkic.js 2jsXh

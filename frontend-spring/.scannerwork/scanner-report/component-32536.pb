@@ -1,0 +1,1 @@
+˜þ<node_modules/jsdom/lib/jsdom/living/generated/NavigatorID.js 2jsXÛh

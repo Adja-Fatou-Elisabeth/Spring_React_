@@ -1,0 +1,1 @@
+ŒI-node_modules/eslint-plugin-import/memo-parser :ŽI

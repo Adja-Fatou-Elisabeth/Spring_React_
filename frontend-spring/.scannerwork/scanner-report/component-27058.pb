@@ -1,0 +1,1 @@
+²Ó(node_modules/is-color-stop/lib/isStop.js 2jsXh

@@ -1,0 +1,1 @@
+ՂOnode_modules/regenerate-unicode-properties/Script_Extensions/Psalter_Pahlavi.js 2jsXh

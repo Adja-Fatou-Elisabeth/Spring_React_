@@ -1,0 +1,1 @@
+¨jPnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living :§j©jªj«jık÷lm‰m”m–m—m¯m¾m

@@ -1,0 +1,1 @@
+ÞCnode_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles/tbody.js 2jsXh

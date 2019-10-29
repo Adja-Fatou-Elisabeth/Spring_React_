@@ -1,0 +1,1 @@
+õ+Gnode_modules/@svgr/babel-plugin-transform-react-native-svg/lib/index.js 2jsX„h

@@ -1,0 +1,1 @@
+ϱFnode_modules/regenerator-transform/lib/replaceShorthandObjectMethod.js 2jsXOh

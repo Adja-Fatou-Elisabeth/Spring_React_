@@ -1,0 +1,1 @@
+±16node_modules/handlebars/dist/amd/handlebars/decorators :°1

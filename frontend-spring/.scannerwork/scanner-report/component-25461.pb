@@ -1,0 +1,1 @@
+õÆ2node_modules/validate-npm-package-license/index.js 2jsXWh

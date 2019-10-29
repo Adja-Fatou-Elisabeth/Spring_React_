@@ -1,0 +1,1 @@
+Œkknode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/CharacterData.js 2jsXøh

@@ -1,0 +1,1 @@
+ø=/node_modules/hpack.js/tools/gen-static-table.js 2jsXhh

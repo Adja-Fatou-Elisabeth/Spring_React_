@@ -1,0 +1,1 @@
+­6node_modules/eslint/lib/rules/no-prototype-builtins.js 2jsX:h

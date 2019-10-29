@@ -1,0 +1,1 @@
+ôƒFnode_modules/regenerate-unicode-properties/Binary_Property/Assigned.js 2jsXh

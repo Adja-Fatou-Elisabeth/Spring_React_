@@ -1,0 +1,1 @@
+Ì√3node_modules/@babel/plugin-transform-typescript/lib :	Ï√Ó√Ô√

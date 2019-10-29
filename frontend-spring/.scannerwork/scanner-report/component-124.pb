@@ -1,0 +1,1 @@
+|5node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts 2tsXh

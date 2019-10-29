@@ -1,0 +1,1 @@
+¤<node_modules/eslint-plugin-jsx-a11y/__mocks__/LiteralMock.js 2jsXh

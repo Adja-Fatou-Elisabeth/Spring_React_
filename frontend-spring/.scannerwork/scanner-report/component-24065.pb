@@ -1,0 +1,1 @@
+Åº^node_modules/@typescript-eslint/experimental-utils/dist/eslint-utils/batchedSingleLineTests.js 2jsXh

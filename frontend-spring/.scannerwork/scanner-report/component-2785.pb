@@ -1,0 +1,1 @@
+á2node_modules/eslint/lib/shared/config-validator.js 2jsXàh

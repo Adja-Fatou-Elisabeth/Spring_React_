@@ -1,0 +1,1 @@
+¦)node_modules/table/dist/validateConfig.js 2jsXðh

@@ -1,0 +1,1 @@
+y1node_modules/uri-js/dist/esnext/schemes/mailto.js 2jsX”h

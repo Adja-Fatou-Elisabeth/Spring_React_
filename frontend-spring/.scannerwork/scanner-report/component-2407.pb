@@ -1,0 +1,1 @@
+çHnode_modules/browser-resolve/node_modules/resolve/test/faulty_basedir.js 2jsXh

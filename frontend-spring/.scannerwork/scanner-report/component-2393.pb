@@ -1,0 +1,1 @@
+Ù\node_modules/browser-resolve/node_modules/resolve/test/resolver/without_basedir/node_modules :Ø

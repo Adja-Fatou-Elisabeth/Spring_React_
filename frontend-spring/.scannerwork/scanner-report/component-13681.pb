@@ -1,0 +1,1 @@
+ñjnnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/HTMLMeterElement.js 2jsXæh

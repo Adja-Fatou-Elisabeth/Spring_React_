@@ -1,0 +1,1 @@
+XBnode_modules/caniuse-lite/data/features/font-variant-alternates.js 2jsXh

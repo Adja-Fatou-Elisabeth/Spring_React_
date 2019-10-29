@@ -1,0 +1,1 @@
+§DMnode_modules/fork-ts-checker-webpack-plugin/lib/formatter/defaultFormatter.js 2jsX#h

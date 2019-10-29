@@ -1,0 +1,1 @@
+ɂFnode_modules/regenerate-unicode-properties/Script_Extensions/Kaithi.js 2jsXh

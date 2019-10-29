@@ -1,0 +1,1 @@
+³&5node_modules/@jest/reporters/build/base_reporter.d.ts 2tsXh

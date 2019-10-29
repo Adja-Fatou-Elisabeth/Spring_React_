@@ -1,0 +1,1 @@
+™DPnode_modules/fork-ts-checker-webpack-plugin/lib/IncrementalCheckerInterface.d.ts 2tsX#h

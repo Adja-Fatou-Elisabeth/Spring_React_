@@ -1,0 +1,1 @@
+»·7node_modules/react-scripts/config/jest/fileTransform.js 2jsX)h

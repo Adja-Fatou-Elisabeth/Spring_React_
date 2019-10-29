@@ -1,0 +1,1 @@
+0node_modules/uri-js/dist/esnext/schemes/urn.d.ts 2tsXh

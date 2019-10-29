@@ -1,0 +1,1 @@
+·ºWnode_modules/@typescript-eslint/eslint-plugin/dist/rules/indent-new-do-not-use/index.js 2jsXôh

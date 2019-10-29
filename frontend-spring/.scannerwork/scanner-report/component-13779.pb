@@ -1,0 +1,1 @@
+Ókknode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/SVGStringList.js 2jsXØh

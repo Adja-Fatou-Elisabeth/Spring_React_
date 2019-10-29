@@ -1,0 +1,1 @@
+î8node_modules/eslint/lib/cli-engine/formatters/compact.js 2jsX=h

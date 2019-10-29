@@ -1,0 +1,1 @@
+«öhnode_modules/babel-preset-react-app/node_modules/@babel/preset-env/lib/polyfills/corejs2/entry-plugin.js 2jsXKh

@@ -1,0 +1,1 @@
+Ç>node_modules/jest-worker/build/workers/ChildProcessWorker.d.ts 2tsX/h

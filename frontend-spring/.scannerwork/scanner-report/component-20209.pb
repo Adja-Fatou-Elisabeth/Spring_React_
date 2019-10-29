@@ -1,0 +1,1 @@
+ñ node_modules/jest-validate/build :Bòóõøùú÷ûüıÿ‚ƒ„…‡‹Œ‘

@@ -1,0 +1,1 @@
+¼¿Inode_modules/@babel/preset-typescript/test/fixtures/jsx-compat/ts-invalid :½¿

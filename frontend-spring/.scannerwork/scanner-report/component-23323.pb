@@ -1,0 +1,1 @@
+›¶@node_modules/react-scripts/node_modules/resolve/example/async.js 2jsXh

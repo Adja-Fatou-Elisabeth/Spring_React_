@@ -1,0 +1,1 @@
+كPnode_modules/regenerate-unicode-properties/Binary_Property/Regional_Indicator.js 2jsXh

@@ -1,0 +1,1 @@
+û1node_modules/eslint/lib/rules/no-extend-native.js 2jsX¶h

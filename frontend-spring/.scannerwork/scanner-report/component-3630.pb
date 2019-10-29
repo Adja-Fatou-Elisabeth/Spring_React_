@@ -1,0 +1,1 @@
+®+node_modules/workbox-sw/build/workbox-sw.js 2jsXh

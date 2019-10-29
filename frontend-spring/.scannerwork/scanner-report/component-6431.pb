@@ -1,0 +1,1 @@
+Ÿ2+node_modules/request/lib/getProxyFromURI.js 2jsXPh

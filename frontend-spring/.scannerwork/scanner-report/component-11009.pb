@@ -1,0 +1,1 @@
+Vnode_modules/caniuse-lite/data :üUƒV€\\

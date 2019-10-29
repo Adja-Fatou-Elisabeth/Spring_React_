@@ -1,0 +1,1 @@
+ë¶Dnode_modules/react-scripts/node_modules/resolve/test/resolver/foo.js 2jsXh

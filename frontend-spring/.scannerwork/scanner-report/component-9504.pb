@@ -1,0 +1,1 @@
+ J8node_modules/eslint-plugin-import/config/react-native.js 2jsXh

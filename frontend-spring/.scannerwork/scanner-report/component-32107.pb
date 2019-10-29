@@ -1,0 +1,1 @@
+лъ!node_modules/invariant/browser.js 2jsX2h

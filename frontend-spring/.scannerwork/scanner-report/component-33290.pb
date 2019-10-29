@@ -1,0 +1,1 @@
+Š„<node_modules/regenerate-unicode-properties/Script/Sinhala.js 2jsXh

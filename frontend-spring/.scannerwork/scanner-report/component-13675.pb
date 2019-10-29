@@ -1,0 +1,1 @@
+ëjgnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/SVGNumber.js 2jsXoh

@@ -1,0 +1,1 @@
+นิ0node_modules/jest-haste-map/build/getMockName.js 2jsX'h

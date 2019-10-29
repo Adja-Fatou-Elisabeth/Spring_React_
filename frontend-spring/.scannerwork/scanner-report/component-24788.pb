@@ -1,0 +1,1 @@
+таnnode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/without-unicode-flag/simple/output.js 2jsXh

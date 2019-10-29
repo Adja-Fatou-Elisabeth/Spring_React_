@@ -1,0 +1,1 @@
+ŒW@node_modules/caniuse-lite/data/features/css-image-orientation.js 2jsXh

@@ -1,0 +1,1 @@
+úD!node_modules/jest-watch-typeahead :E‘E

@@ -1,0 +1,1 @@
+Մ?node_modules/regenerate-unicode-properties/Script/Manichaean.js 2jsXh

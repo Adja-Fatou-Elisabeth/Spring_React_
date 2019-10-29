@@ -1,0 +1,1 @@
+´X9node_modules/caniuse-lite/data/features/variable-fonts.js 2jsXh

@@ -1,0 +1,1 @@
+¡-node_modules/eslint/lib/rules/no-loop-func.js 2jsXÒh

@@ -1,0 +1,1 @@
+Í%node_modules/table/dist/makeConfig.js 2jsX^h

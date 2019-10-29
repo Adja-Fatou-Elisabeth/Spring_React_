@@ -1,0 +1,1 @@
+äCnode_modules/eslint/lib/cli-engine/formatters/json-with-metadata.js 2jsXh

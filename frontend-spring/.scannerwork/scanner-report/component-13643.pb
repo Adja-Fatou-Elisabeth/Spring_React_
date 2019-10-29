@@ -1,0 +1,1 @@
+Ëjnnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/generated/HTMLQuoteElement.js 2jsXth

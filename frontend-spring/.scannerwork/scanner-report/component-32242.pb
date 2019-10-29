@@ -1,0 +1,1 @@
+ты-node_modules/worker-farm/examples/pi/index.js 2jsX*h

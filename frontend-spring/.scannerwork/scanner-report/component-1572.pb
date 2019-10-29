@@ -1,0 +1,1 @@
+¤node_modules/from2/index.js 2jsXhh

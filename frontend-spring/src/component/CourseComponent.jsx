@@ -12,9 +12,8 @@ class CourseComponent extends Component {
         }
     }
     componentDidMount() {
-        console.log(this.state.id)
         // eslint-disable-next-line
-        if (this.state.id == -1) {
+        if (this.state.id != -1) {
             return
         }
         CourseDataService.retrieveCourse(this.state.id)
@@ -34,14 +33,10 @@ class CourseComponent extends Component {
     onSubmit(values) {
         let course = values
         
-        if (course.id === -1) {
-            console.log(this.state);
+        if (course.id != -1) {
+            console.log("ien"+course.description);
             CourseDataService.createCourse(course)
-                .then(() => this.props.history.push('/courses'))
-        } else {
-            CourseDataService.updateCourse(course.id, course)
-                .then(() => this.props.history.push('/courses'))
-                console.log(values);
+                .then(() => this.props.history.push('/'))
         }
     }
     render() {
@@ -65,7 +60,7 @@ class CourseComponent extends Component {
                                         className="alert alert-warning" />
                                     <fieldset className="form-group">
                                         <label>Id</label>
-                                        <Field className="form-control" type="text" name="id" disabled />
+                                        <Field className="form-control" type="text" name="id"/>
                                     </fieldset>
                                     <fieldset className="form-group">
                                         <label>Description</label>

@@ -1,0 +1,1 @@
+ÜUDnode_modules/eslint-plugin-react/lib/rules/jsx-props-no-spreading.js 2jsXbh

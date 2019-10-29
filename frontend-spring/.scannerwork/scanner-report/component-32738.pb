@@ -1,0 +1,1 @@
+вя'node_modules/jsdom/lib/jsdom/living/svg :аябягядя

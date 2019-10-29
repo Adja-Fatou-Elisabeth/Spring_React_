@@ -1,0 +1,1 @@
+âºPnode_modules/@typescript-eslint/eslint-plugin/dist/rules/prefer-function-type.js 2jsX}h

@@ -1,0 +1,1 @@
+ƁEnode_modules/core-js/modules/es.object.get-own-property-descriptor.js 2jsXh

@@ -1,0 +1,1 @@
+Ý,'node_modules/svgo/plugins/removeDesc.js 2jsX!h

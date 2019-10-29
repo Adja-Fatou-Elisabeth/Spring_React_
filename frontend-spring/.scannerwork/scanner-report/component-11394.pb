@@ -1,0 +1,1 @@
+‚Y6node_modules/caniuse-lite/data/features/canvas-text.js 2jsXh

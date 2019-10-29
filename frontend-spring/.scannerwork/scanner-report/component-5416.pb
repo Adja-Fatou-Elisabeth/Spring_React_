@@ -1,0 +1,1 @@
+¨*Inode_modules/snapdragon-node/node_modules/is-accessor-descriptor/index.js 2jsXFh

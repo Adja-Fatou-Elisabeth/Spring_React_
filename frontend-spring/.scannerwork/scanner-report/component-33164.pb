@@ -1,0 +1,1 @@
+ŒƒGnode_modules/regenerate-unicode-properties/Script_Extensions/Mandaic.js 2jsXh

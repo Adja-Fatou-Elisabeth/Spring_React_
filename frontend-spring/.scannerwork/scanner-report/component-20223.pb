@@ -1,0 +1,1 @@
+ÿ1node_modules/jest-validate/build/defaultConfig.js 2jsX+h

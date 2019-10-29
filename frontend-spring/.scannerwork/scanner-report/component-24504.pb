@@ -1,0 +1,1 @@
+¸¿Rnode_modules/@babel/preset-typescript/test/fixtures/jsx-compat/tsx-valid/output.js 2jsXh

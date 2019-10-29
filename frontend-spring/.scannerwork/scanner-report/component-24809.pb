@@ -1,0 +1,1 @@
+้มGnode_modules/@babel/plugin-proposal-unicode-property-regex/src/index.js 2jsX!h

@@ -1,0 +1,1 @@
+หมonode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/without-unicode-flag/script-extensions :สมอม

@@ -1,0 +1,1 @@
+ýƒKnode_modules/regenerate-unicode-properties/Binary_Property/Bidi_Mirrored.js 2jsXh

@@ -1,0 +1,1 @@
+þúnode_modules/open/index.d.ts 2tsXGh

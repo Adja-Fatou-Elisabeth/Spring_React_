@@ -1,0 +1,1 @@
+Š,+node_modules/@svgr/plugin-svgo/lib/index.js 2jsX~h

@@ -1,0 +1,1 @@
+Ñ.node_modules/eslint/lib/rules/no-script-url.js 2jsX-h

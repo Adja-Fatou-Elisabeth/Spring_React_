@@ -1,0 +1,1 @@
+‚¡enode_modules/@babel/plugin-proposal-unicode-property-regex/test/fixtures/with-unicode-flag/unicode-12 :·¡‰¡

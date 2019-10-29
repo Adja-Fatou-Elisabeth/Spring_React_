@@ -1,0 +1,1 @@
+è,&node_modules/svgo/plugins/sortAttrs.js 2jsXUh

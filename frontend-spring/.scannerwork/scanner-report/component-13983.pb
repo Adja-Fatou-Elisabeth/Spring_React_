@@ -1,0 +1,1 @@
+Ÿmwnode_modules/jest-environment-jsdom-fourteen/node_modules/jsdom/lib/jsdom/living/helpers/wrap-cookie-jar-for-request.js 2jsX	h

@@ -1,0 +1,1 @@
+Ÿ,node_modules/eslint/lib/rule-tester/index.js 2jsXh

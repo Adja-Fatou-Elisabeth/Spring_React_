@@ -1,0 +1,1 @@
+ÂGbnode_modules/optimize-css-assets-webpack-plugin/test/cases/only-assetNameRegExp-processed/index.js 2jsXh

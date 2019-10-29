@@ -1,0 +1,1 @@
+ÐoHnode_modules/resolve/test/resolver/multirepo/packages/package-a/index.js 2jsX$h

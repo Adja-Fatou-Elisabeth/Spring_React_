@@ -1,0 +1,1 @@
+Çnode_modules/isexe :ÅÖÜ

@@ -1,0 +1,1 @@
+‡<+node_modules/jest-snapshot/build/plugins.js 2jsX0h

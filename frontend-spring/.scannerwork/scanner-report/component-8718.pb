@@ -1,0 +1,1 @@
+ŽD@node_modules/fork-ts-checker-webpack-plugin/lib/FilesRegister.js 2jsX9h

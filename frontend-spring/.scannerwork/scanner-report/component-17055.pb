@@ -1,0 +1,1 @@
+Ÿ…:node_modules/core-js/features/object/prevent-extensions.js 2jsXh

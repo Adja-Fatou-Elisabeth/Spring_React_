@@ -1,0 +1,1 @@
+Š+Gnode_modules/identity-obj-proxy/src/test-redirections/idObjES6Import.js 2jsXh

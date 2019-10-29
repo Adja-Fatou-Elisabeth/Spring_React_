@@ -1,0 +1,1 @@
+Snode_modules/jest/build/jest.js 2jsX-h
